@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14785/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml
+END
+VisibilityKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/VisibilityKindEUMLImpl.java
+END
+AggregationKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/AggregationKindEUMLImpl.java
+END
+DataTypesHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/DataTypesHelperEUMLImpl.java
+END
+ModelEventPumpEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14672/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ModelEventPumpEUMLImpl.java
+END
+PseudostateKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/PseudostateKindEUMLImpl.java
+END
+CommonBehaviorHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CommonBehaviorHelperEUMLImpl.java
+END
+ExtensionMechanismsFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ExtensionMechanismsFactoryEUMLImpl.java
+END
+OrderingKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/OrderingKindEUMLImpl.java
+END
+ChangeableKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ChangeableKindEUMLImpl.java
+END
+ScopeKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ScopeKindEUMLImpl.java
+END
+ChangeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ChangeCommand.java
+END
+XmiReaderEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14785/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/XmiReaderEUMLImpl.java
+END
+NotYetImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/NotYetImplementedException.java
+END
+CommandStackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14672/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CommandStackImpl.java
+END
+RootContainerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/RootContainerAdapter.java
+END
+EUMLModelImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14672/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/EUMLModelImplementation.java
+END
+UmlFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/UmlFactoryEUMLImpl.java
+END
+ModelManagementFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14625/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ModelManagementFactoryEUMLImpl.java
+END
+DataTypesFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/DataTypesFactoryEUMLImpl.java
+END
+DirectionKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/DirectionKindEUMLImpl.java
+END
+StateMachinesHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/StateMachinesHelperEUMLImpl.java
+END
+CoreHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CoreHelperEUMLImpl.java
+END
+XmiWriterEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/XmiWriterEUMLImpl.java
+END
+UmlHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/UmlHelperEUMLImpl.java
+END
+ModelManagementHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ModelManagementHelperEUMLImpl.java
+END
+ConcurrencyKindEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ConcurrencyKindEUMLImpl.java
+END
+CommonBehaviorFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CommonBehaviorFactoryEUMLImpl.java
+END
+ActivityGraphsHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ActivityGraphsHelperEUMLImpl.java
+END
+UseCasesFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/UseCasesFactoryEUMLImpl.java
+END
+CollaborationsFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CollaborationsFactoryEUMLImpl.java
+END
+FacadeEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/FacadeEUMLImpl.java
+END
+ActivityGraphsFactoryEUMLlImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ActivityGraphsFactoryEUMLlImpl.java
+END
+CopyHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CopyHelperEUMLImpl.java
+END
+CollaborationsHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CollaborationsHelperEUMLImpl.java
+END
+UseCasesHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/UseCasesHelperEUMLImpl.java
+END
+MetaTypesEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14480/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/MetaTypesEUMLImpl.java
+END
+CoreFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/CoreFactoryEUMLImpl.java
+END
+StateMachinesFactoryEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/StateMachinesFactoryEUMLImpl.java
+END
+ExtensionMechanismsHelperEUMLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14668/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/ExtensionMechanismsHelperEUMLImpl.java
+END
+UMLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/UMLUtil.java
+END
+RunnableClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/src/org/argouml/model/euml/RunnableClass.java
+END

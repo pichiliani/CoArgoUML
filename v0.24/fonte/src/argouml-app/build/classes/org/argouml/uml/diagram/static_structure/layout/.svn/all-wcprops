@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout
+END
+ClassdiagramEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramEdge.java
+END
+ClassdiagramLayouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14443/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramLayouter.java
+END
+ClassdiagramNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramNode.java
+END
+ClassdiagramNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramNote.java
+END
+ClassdiagramRealizationEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramRealizationEdge.java
+END
+ClassdiagramNoteEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramNoteEdge.java
+END
+ClassdiagramInheritanceEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramInheritanceEdge.java
+END
+ClassdiagramGeneralizationEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramGeneralizationEdge.java
+END
+ClassdiagramAssociationEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramAssociationEdge.java
+END
+ClassdiagramModelElementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/ClassdiagramModelElementFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/static_structure/layout/package.html
+END

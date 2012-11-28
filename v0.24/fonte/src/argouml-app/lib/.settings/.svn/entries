@@ -1,0 +1,54 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/lib/.settings
+http://argouml.tigris.org/svn/argouml
+
+
+
+2007-04-22T18:38:22.097663Z
+12424
+mvw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2008-06-16T20:49:04.921875Z
+cb94de2543063ef446e6b7f4fd2460d6
+2007-04-22T18:38:22.097663Z
+12424
+mvw
+has-props
+
+org.eclipse.jdt.ui.prefs
+file
+
+
+
+
+2008-06-16T20:49:04.921875Z
+b470d820681c1884b19ed19462220f2f
+2007-04-22T18:38:22.097663Z
+12424
+mvw
+has-props
+

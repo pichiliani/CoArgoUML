@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14455/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms
+END
+ActionSetTagDefinitionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/ActionSetTagDefinitionType.java
+END
+UMLStereotypeTagDefinitionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/UMLStereotypeTagDefinitionListModel.java
+END
+UMLMetaClassComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/UMLMetaClassComboBoxModel.java
+END
+PropPanelTagDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/PropPanelTagDefinition.java
+END
+UMLTagDefinitionTypedValuesListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/UMLTagDefinitionTypedValuesListModel.java
+END
+ActionSetTagDefinitionMultiplicity.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/ActionSetTagDefinitionMultiplicity.java
+END
+ActionSetTagDefinitionOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/ActionSetTagDefinitionOwner.java
+END
+PropPanelTaggedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/PropPanelTaggedValue.java
+END
+ActionNewStereotype.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/ActionNewStereotype.java
+END
+UMLTagDefinitionComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14455/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/UMLTagDefinitionComboBoxModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/package.html
+END
+PropPanelStereotype.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/PropPanelStereotype.java
+END
+ActionSetMetaClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/ActionSetMetaClass.java
+END
+UMLTagDefinitionOwnerComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/UMLTagDefinitionOwnerComboBoxModel.java
+END
+UMLExtendedElementsListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/UMLExtendedElementsListModel.java
+END
+ActionNewTagDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/foundation/extension_mechanisms/ActionNewTagDefinition.java
+END

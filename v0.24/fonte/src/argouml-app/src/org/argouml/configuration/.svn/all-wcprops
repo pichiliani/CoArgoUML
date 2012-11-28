@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/configuration
+END
+ConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/ConfigurationFactory.java
+END
+ConfigurationKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/ConfigurationKey.java
+END
+ConfigurationKeyImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/ConfigurationKeyImpl.java
+END
+ConfigurationProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/configuration/ConfigurationProperties.java
+END
+ConfigurationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/ConfigurationHandler.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/Configuration.java
+END
+IConfigurationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/IConfigurationFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/configuration/package.html
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/argouml/!svn/ver/14769/trunk/src/argouml-app/lib
+END
+antlr.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/antlr.LICENSE.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/.project
+END
+swidgets.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/swidgets.LICENSE.txt
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14543/trunk/src/argouml-app/lib/build.properties
+END
+commons-logging.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/commons-logging.LICENSE.txt
+END
+gef.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/gef.LICENSE.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/argouml/!svn/ver/14543/trunk/src/argouml-app/lib/.classpath
+END
+toolbar.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/toolbar.LICENSE.txt
+END
+ocl-argo.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/ocl-argo.LICENSE.txt
+END
+swidgets-0.1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/swidgets-0.1.4.jar
+END
+antlr-2.7.7.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/antlr-2.7.7.jar
+END
+commons-logging-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/commons-logging-1.0.2.jar
+END
+ocl-argo-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/ocl-argo-1.1.jar
+END
+gef-0.12.4BETA3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/argouml/!svn/ver/14540/trunk/src/argouml-app/lib/gef-0.12.4BETA3.jar
+END
+toolbar-1.4.1-20071227.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/lib/toolbar-1.4.1-20071227.jar
+END

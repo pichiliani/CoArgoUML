@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argouml/!svn/ver/14957/trunk/src/argouml-core-model-euml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/.classpath
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argouml/!svn/ver/14757/trunk/src/argouml-core-model-euml/build.bat
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/.project
+END
+build2.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14757/trunk/src/argouml-core-model-euml/build2.bat
+END
+ArgoUML UML2-EUML debug.launch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14949/trunk/src/argouml-core-model-euml/ArgoUML%20UML2-EUML%20debug.launch
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14757/trunk/src/argouml-core-model-euml/build.sh
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/build.properties
+END
+build2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argouml/!svn/ver/14757/trunk/src/argouml-core-model-euml/build2.sh
+END
+ArgoUML Model all tests with eUML.launch
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14957/trunk/src/argouml-core-model-euml/ArgoUML%20Model%20all%20tests%20with%20eUML.launch
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-euml/build.xml
+END

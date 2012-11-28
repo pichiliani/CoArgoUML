@@ -1,0 +1,41 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/modules/jscheme/lib
+http://argouml.tigris.org/svn/argouml
+
+
+
+2001-11-28T13:04:44.000000Z
+1090
+thierrylach
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+jscheme.jar
+file
+
+
+
+
+2008-06-16T20:51:38.015625Z
+0d768046da37c5b817ad103c188963f6
+2001-11-28T13:04:44.000000Z
+1090
+thierrylach
+has-props
+

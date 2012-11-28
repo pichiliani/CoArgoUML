@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/argouml/!svn/ver/14934/trunk/src/argouml-core-model
+END
+Model MDR tests.launch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14553/trunk/src/argouml-core-model/Model%20MDR%20tests.launch
+END
+Model eUML tests.launch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14553/trunk/src/argouml-core-model/Model%20eUML%20tests.launch
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/argouml/!svn/ver/14552/trunk/src/argouml-core-model/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/.project
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/project.xml
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/build.properties
+END
+.checkclipse
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/.checkclipse
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/build.xml
+END

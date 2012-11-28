@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui
+END
+ButtonActionNewEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java
+END
+FigStubState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigStubState.java
+END
+FigStateVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14807/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigStateVertex.java
+END
+ButtonActionNewTimeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java
+END
+StateDiagramPropPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/StateDiagramPropPanelFactory.java
+END
+FigSimpleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigSimpleState.java
+END
+FigJunctionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigJunctionState.java
+END
+FigInitialState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigInitialState.java
+END
+FigFinalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigFinalState.java
+END
+ActionCreatePseudostate.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ActionCreatePseudostate.java
+END
+ButtonActionNewSignalEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java
+END
+UMLStateDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/UMLStateDiagram.java
+END
+ButtonActionNewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java
+END
+FigJoinState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigJoinState.java
+END
+FigDeepHistoryState.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigDeepHistoryState.java
+END
+InitStateDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/InitStateDiagram.java
+END
+FigCompositeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14685/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigCompositeState.java
+END
+StateDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/StateDiagramRenderer.java
+END
+PropPanelUMLStateDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/PropPanelUMLStateDiagram.java
+END
+FigSubmachineState.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigSubmachineState.java
+END
+FigState.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigState.java
+END
+FigSynchState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigSynchState.java
+END
+FigConcurrentRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14685/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigConcurrentRegion.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/package.html
+END
+FigTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigTransition.java
+END
+ButtonActionNewCallEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java
+END
+FigShallowHistoryState.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigShallowHistoryState.java
+END
+FigBranchState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigBranchState.java
+END
+SelectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/SelectionState.java
+END
+FigForkState.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigForkState.java
+END
+FigHistoryState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14472/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigHistoryState.java
+END
+ButtonActionNewChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java
+END

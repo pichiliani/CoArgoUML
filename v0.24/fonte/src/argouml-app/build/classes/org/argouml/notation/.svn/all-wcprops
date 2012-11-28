@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/notation
+END
+InitNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/InitNotation.java
+END
+NotationProviderFactory2.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14835/trunk/src/argouml-app/src/org/argouml/notation/NotationProviderFactory2.java
+END
+NotationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/NotationProvider.java
+END
+Notation.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/Notation.java
+END
+NotationName.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/NotationName.java
+END
+NotationNameImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/NotationNameImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/package.html
+END

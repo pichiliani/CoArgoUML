@@ -1,0 +1,485 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/argouml/!svn/ver/14817/trunk/src/argouml-core-model/src/org/argouml/model
+END
+AbstractCommonBehaviorHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractCommonBehaviorHelperDecorator.java
+END
+AbstractCollaborationsHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractCollaborationsHelperDecorator.java
+END
+StateDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/StateDiagram.java
+END
+UmlChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UmlChangeEvent.java
+END
+PseudostateKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/PseudostateKind.java
+END
+Factory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/Factory.java
+END
+AbstractModelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractModelFactory.java
+END
+ExtensionMechanismsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/ExtensionMechanismsFactory.java
+END
+CollaborationDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/CollaborationDiagram.java
+END
+AbstractStateMachinesHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractStateMachinesHelperDecorator.java
+END
+ChangeableKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ChangeableKind.java
+END
+ScopeKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ScopeKind.java
+END
+XmiReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14787/trunk/src/argouml-core-model/src/org/argouml/model/XmiReader.java
+END
+UmlFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/UmlFactory.java
+END
+DataTypesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DataTypesFactory.java
+END
+CoreHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/CoreHelper.java
+END
+AbstractModelEventPump.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractModelEventPump.java
+END
+XmiWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/XmiWriter.java
+END
+ModelManagementHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/ModelManagementHelper.java
+END
+MementoCreationObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/MementoCreationObserver.java
+END
+ActivityGraphsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ActivityGraphsHelper.java
+END
+UseCasesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UseCasesFactory.java
+END
+DeploymentDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DeploymentDiagram.java
+END
+CopyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/CopyHelper.java
+END
+UseCasesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UseCasesHelper.java
+END
+MetaTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/MetaTypes.java
+END
+AbstractExtensionMechanismsHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/AbstractExtensionMechanismsHelperDecorator.java
+END
+DummyModelCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DummyModelCommand.java
+END
+InstanceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/InstanceChangeEvent.java
+END
+UmlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UmlException.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/package.html
+END
+InvalidElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/InvalidElementException.java
+END
+CoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/CoreFactory.java
+END
+ActivityDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ActivityDiagram.java
+END
+AssociationChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AssociationChangeEvent.java
+END
+AbstractUmlHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractUmlHelperDecorator.java
+END
+AbstractDataTypesHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractDataTypesHelperDecorator.java
+END
+ModelCommandCreationObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ModelCommandCreationObserver.java
+END
+VisibilityKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/VisibilityKind.java
+END
+SequenceDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/SequenceDiagram.java
+END
+DataTypesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/DataTypesHelper.java
+END
+UUIDManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UUIDManager.java
+END
+DummyModelMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DummyModelMemento.java
+END
+AbstractUseCasesHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractUseCasesHelperDecorator.java
+END
+IllegalModelElementConnectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/IllegalModelElementConnectionException.java
+END
+ModelEventPump.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14817/trunk/src/argouml-core-model/src/org/argouml/model/ModelEventPump.java
+END
+CommonBehaviorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/CommonBehaviorHelper.java
+END
+UseCaseDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UseCaseDiagram.java
+END
+OrderingKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/OrderingKind.java
+END
+AbstractCoreHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/AbstractCoreHelperDecorator.java
+END
+ModelManagementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/ModelManagementFactory.java
+END
+DirectionKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DirectionKind.java
+END
+XmiExtensionWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/XmiExtensionWriter.java
+END
+StateMachinesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/StateMachinesHelper.java
+END
+DeleteInstanceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DeleteInstanceEvent.java
+END
+ActivityGraphsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ActivityGraphsFactory.java
+END
+ClassDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ClassDiagram.java
+END
+RemoveAssociationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/RemoveAssociationEvent.java
+END
+UmlHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/UmlHelper.java
+END
+ModelCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ModelCommand.java
+END
+CommonBehaviorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/CommonBehaviorFactory.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14675/trunk/src/argouml-core-model/src/org/argouml/model/Model.java
+END
+ConcurrencyKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ConcurrencyKind.java
+END
+NotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/NotImplementedException.java
+END
+CollaborationsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/CollaborationsFactory.java
+END
+Facade.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/Facade.java
+END
+DiagramInterchangeFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DiagramInterchangeFactory.java
+END
+ModelImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14675/trunk/src/argouml-core-model/src/org/argouml/model/ModelImplementation.java
+END
+DiElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DiElement.java
+END
+CollaborationsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/CollaborationsHelper.java
+END
+AttributeChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AttributeChangeEvent.java
+END
+XmiException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14644/trunk/src/argouml-core-model/src/org/argouml/model/XmiException.java
+END
+StateMachinesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14420/trunk/src/argouml-core-model/src/org/argouml/model/StateMachinesFactory.java
+END
+DiDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DiDiagram.java
+END
+ExtensionMechanismsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14670/trunk/src/argouml-core-model/src/org/argouml/model/ExtensionMechanismsHelper.java
+END
+ModelMemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/ModelMemento.java
+END
+AddAssociationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AddAssociationEvent.java
+END
+AbstractActivityGraphsHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AbstractActivityGraphsHelperDecorator.java
+END
+DiagramInterchangeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/DiagramInterchangeModel.java
+END
+AggregationKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model/src/org/argouml/model/AggregationKind.java
+END

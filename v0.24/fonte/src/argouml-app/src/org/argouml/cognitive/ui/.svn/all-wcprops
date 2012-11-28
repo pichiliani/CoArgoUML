@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/cognitive/ui
+END
+GoListToGoalsToItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoListToGoalsToItems.java
+END
+DismissToDoItemDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/DismissToDoItemDialog.java
+END
+ToDoByType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoByType.java
+END
+ToDoByGoal.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoByGoal.java
+END
+WizStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14565/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizStep.java
+END
+ToDoPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14565/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoPane.java
+END
+ActionAutoCritique.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionAutoCritique.java
+END
+ToDoTreeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoTreeRenderer.java
+END
+ActionResolve.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionResolve.java
+END
+WizStepChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizStepChoice.java
+END
+ToDoItemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoItemAction.java
+END
+DesignIssuesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/DesignIssuesDialog.java
+END
+ActionOpenGoals.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionOpenGoals.java
+END
+PriorityNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/PriorityNode.java
+END
+GoListToPriorityToItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoListToPriorityToItem.java
+END
+ActionNewToDoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionNewToDoItem.java
+END
+TabToDo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14565/trunk/src/argouml-app/src/org/argouml/cognitive/ui/TabToDo.java
+END
+GoListToOffenderToItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoListToOffenderToItem.java
+END
+ActionOpenDecisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionOpenDecisions.java
+END
+WizStepCue.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizStepCue.java
+END
+ToDoByPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoByPriority.java
+END
+ToDoByOffender.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoByOffender.java
+END
+InitCognitiveUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/InitCognitiveUI.java
+END
+GoListToDecisionsToItems.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoListToDecisionsToItems.java
+END
+ActionSnooze.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionSnooze.java
+END
+ActionGoToCritique.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14565/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ActionGoToCritique.java
+END
+WizDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizDescription.java
+END
+AddToDoItemDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/AddToDoItemDialog.java
+END
+ToDoByDecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoByDecision.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/package.html
+END
+WizStepTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizStepTextField.java
+END
+ToDoPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoPerspective.java
+END
+WizStepConfirm.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizStepConfirm.java
+END
+GoListToPosterToItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoListToPosterToItem.java
+END
+GoalsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoalsDialog.java
+END
+AbstractGoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/AbstractGoList.java
+END
+WizStepManyTextFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/WizStepManyTextFields.java
+END
+KnowledgeTypeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/KnowledgeTypeNode.java
+END
+GoListToTypeToItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/GoListToTypeToItem.java
+END
+ToDoByPoster.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/ui/ToDoByPoster.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14959/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui
+END
+FigMessageComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14304/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigMessageComparator.java
+END
+FigMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14528/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigMessage.java
+END
+ModeBroomMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14304/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/ModeBroomMessages.java
+END
+UMLSequenceDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14324/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/UMLSequenceDiagram.java
+END
+SelectionClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14900/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/SelectionClassifierRole.java
+END
+ActionAddClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14324/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/ActionAddClassifierRole.java
+END
+ModeCreateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14560/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/ModeCreateMessage.java
+END
+FigLifeLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14889/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigLifeLine.java
+END
+FigDestroy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14304/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigDestroy.java
+END
+ModePlaceClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14900/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/ModePlaceClassifierRole.java
+END
+SequenceDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14304/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/SequenceDiagramRenderer.java
+END
+FigMessageSpline.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14926/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigMessageSpline.java
+END
+FigActivation.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14304/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigActivation.java
+END
+FigHead.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14320/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigHead.java
+END
+SelectionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14561/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/SelectionMessage.java
+END
+FigClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14959/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2/ui/FigClassifierRole.java
+END

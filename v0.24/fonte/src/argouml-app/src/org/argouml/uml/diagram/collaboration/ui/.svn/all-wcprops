@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui
+END
+InitCollaborationDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/InitCollaborationDiagram.java
+END
+FigAssociationRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/FigAssociationRole.java
+END
+CollaborationDiagramPropPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/CollaborationDiagramPropPanelFactory.java
+END
+CollabDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/CollabDiagramRenderer.java
+END
+UMLCollaborationDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/UMLCollaborationDiagram.java
+END
+PropPanelUMLCollaborationDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/PropPanelUMLCollaborationDiagram.java
+END
+SelectionClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/SelectionClassifierRole.java
+END
+FigClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/FigClassifierRole.java
+END
+ActionAddClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/ActionAddClassifierRole.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/package.html
+END

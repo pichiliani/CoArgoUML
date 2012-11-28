@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/uml/reveng
+END
+ImportCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14861/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportCommand.java
+END
+Import.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/uml/reveng/Import.java
+END
+SettingUniqueSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/SettingUniqueSelection.java
+END
+ExtendedImportInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14878/trunk/src/argouml-app/src/org/argouml/uml/reveng/ExtendedImportInterface.java
+END
+Setting.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14872/trunk/src/argouml-app/src/org/argouml/uml/reveng/Setting.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/package.html
+END
+ConfigPanelExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/ConfigPanelExtension.java
+END
+ImportCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14725/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportCommon.java
+END
+DiagramInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/reveng/DiagramInterface.java
+END
+SettingsTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14872/trunk/src/argouml-app/src/org/argouml/uml/reveng/SettingsTypes.java
+END
+ImportClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14763/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportClassLoader.java
+END
+ImportSettingsInternal.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportSettingsInternal.java
+END
+ImportCommandInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14861/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportCommandInterface.java
+END
+ImportInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14861/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportInterface.java
+END
+ImportSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImportSettings.java
+END
+FileImportUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14724/trunk/src/argouml-app/src/org/argouml/uml/reveng/FileImportUtils.java
+END
+ImporterManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/reveng/ImporterManager.java
+END
+MethodImportInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14866/trunk/src/argouml-app/src/org/argouml/uml/reveng/MethodImportInterface.java
+END

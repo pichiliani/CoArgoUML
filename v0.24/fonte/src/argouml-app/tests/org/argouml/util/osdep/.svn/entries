@@ -1,0 +1,41 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/tests/org/argouml/util/osdep
+http://argouml.tigris.org/svn/argouml
+
+
+
+2006-06-11T17:14:04.000000Z
+10735
+mvw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+TestOsUtil.java
+file
+
+
+
+
+2008-06-16T20:48:43.812500Z
+ef4622539e2f4e76364baf384bc8c64c
+2006-06-11T17:14:04.000000Z
+10735
+mvw
+has-props
+

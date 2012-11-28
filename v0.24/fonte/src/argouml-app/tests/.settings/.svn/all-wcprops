@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.settings
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.settings/org.eclipse.jdt.core.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.settings/org.eclipse.jdt.ui.prefs
+END
+de.mvmsoft.checkclipse.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.settings/de.mvmsoft.checkclipse.prefs
+END

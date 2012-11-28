@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/argouml/!svn/ver/14813/trunk/src/argouml-app/tests/org/argouml/kernel
+END
+TestProjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/kernel/TestProjectManager.java
+END
+TestProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/kernel/TestProject.java
+END
+TestProjectWithProfiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14813/trunk/src/argouml-app/tests/org/argouml/kernel/TestProjectWithProfiles.java
+END
+TestProjectSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/kernel/TestProjectSettings.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/kernel/package.html
+END

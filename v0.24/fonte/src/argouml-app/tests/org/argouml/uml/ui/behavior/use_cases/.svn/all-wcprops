@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases
+END
+TestUMLUseCaseIncludeListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLUseCaseIncludeListModel.java
+END
+TestUMLExtensionPointExtendListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLExtensionPointExtendListModel.java
+END
+TestUMLExtendExtensionPointListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLExtendExtensionPointListModel.java
+END
+TestUMLUseCaseExtensionPointListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLUseCaseExtensionPointListModel.java
+END
+TestUMLExtensionPointUseCaseListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLExtensionPointUseCaseListModel.java
+END
+TestUMLUseCaseExtendListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLUseCaseExtendListModel.java
+END
+TestUMLExtensionPointLocationDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/TestUMLExtensionPointLocationDocument.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/use_cases/package.html
+END

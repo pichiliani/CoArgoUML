@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/argouml/!svn/ver/14770/trunk/src/argouml-app/tests/org/argouml/persistence
+END
+TestPersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/persistence/TestPersistenceManager.java
+END
+TestZargoFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14575/trunk/src/argouml-app/tests/org/argouml/persistence/TestZargoFilePersister.java
+END
+TestProfileConfigurationFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14770/trunk/src/argouml-app/tests/org/argouml/persistence/TestProfileConfigurationFilePersister.java
+END
+TestXmiFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14610/trunk/src/argouml-app/tests/org/argouml/persistence/TestXmiFilePersister.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/persistence/package.html
+END

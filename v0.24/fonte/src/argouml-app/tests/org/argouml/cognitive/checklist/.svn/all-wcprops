@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/checklist
+END
+TestChecklist.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/checklist/TestChecklist.java
+END
+TestCheckItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/checklist/TestCheckItem.java
+END
+TestChecklistStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/checklist/TestChecklistStatus.java
+END

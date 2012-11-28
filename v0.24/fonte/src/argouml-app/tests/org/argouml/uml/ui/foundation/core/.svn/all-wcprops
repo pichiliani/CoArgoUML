@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core
+END
+TestUMLModelElementElementResidenceListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementElementResidenceListModel.java
+END
+TestUMLModelElementClientDependencyListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementClientDependencyListModel.java
+END
+TestUMLModelElementTargetFlowListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementTargetFlowListModel.java
+END
+TestActionAddEnumerationLiteral.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestActionAddEnumerationLiteral.java
+END
+TestUMLModelElementConstraintListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementConstraintListModel.java
+END
+TestActionAddAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestActionAddAttribute.java
+END
+TestUMLModelElementSourceFlowListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementSourceFlowListModel.java
+END
+TestUMLStructuralFeatureTypeComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLStructuralFeatureTypeComboBoxModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/package.html
+END
+TestUMLGeneralizationPowertypeComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLGeneralizationPowertypeComboBoxModel.java
+END
+TestUMLModelElementNamespaceListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementNamespaceListModel.java
+END
+TestUMLCollaborationInteractionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLCollaborationInteractionListModel.java
+END
+TestUMLFeatureOwnerScopeCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLFeatureOwnerScopeCheckBox.java
+END
+TestUMLModelElementSupplierDependencyListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementSupplierDependencyListModel.java
+END
+TestUMLModelElementNameDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/foundation/core/TestUMLModelElementNameDocument.java
+END

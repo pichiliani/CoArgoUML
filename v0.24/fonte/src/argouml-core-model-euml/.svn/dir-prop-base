@@ -1,0 +1,13 @@
+K 14
+subclipse:tags
+V 244
+14630,VERSION_0_25_5_test,/releases/VERSION_0_25_5_test/src/argouml-core-model-euml,tag
+14694,VERSION_0_25_5,/releases/VERSION_0_25_5/src/argouml-core-model-euml,tag
+14928,VERSION_0_25_6,/releases/VERSION_0_25_6/src/argouml-core-model-euml,tag
+
+K 10
+svn:ignore
+V 15
+build-eclipse
+
+END

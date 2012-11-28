@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/notation/providers/uml
+END
+ClassifierRoleNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ClassifierRoleNotationUml.java
+END
+ObjectNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ObjectNotationUml.java
+END
+NodeInstanceNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14497/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/NodeInstanceNotationUml.java
+END
+ModelElementNameNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14791/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ModelElementNameNotationUml.java
+END
+CallStateNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14711/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/CallStateNotationUml.java
+END
+AssociationNameNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14791/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/AssociationNameNotationUml.java
+END
+ActionStateNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ActionStateNotationUml.java
+END
+MessageNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/MessageNotationUml.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14492/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/package.html
+END
+ExtensionPointNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ExtensionPointNotationUml.java
+END
+ComponentInstanceNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14498/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ComponentInstanceNotationUml.java
+END
+MultiplicityNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14792/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/MultiplicityNotationUml.java
+END
+TransitionNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/TransitionNotationUml.java
+END
+StateBodyNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/StateBodyNotationUml.java
+END
+AssociationRoleNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/AssociationRoleNotationUml.java
+END
+OperationNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14796/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/OperationNotationUml.java
+END
+ObjectFlowStateStateNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ObjectFlowStateStateNotationUml.java
+END
+ObjectFlowStateTypeNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/ObjectFlowStateTypeNotationUml.java
+END
+AttributeNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14834/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/AttributeNotationUml.java
+END
+NotationUtilityUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/NotationUtilityUml.java
+END
+InitNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14835/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/InitNotationUml.java
+END
+EnumerationLiteralNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14862/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/EnumerationLiteralNotationUml.java
+END
+AssociationEndNameNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14796/trunk/src/argouml-app/src/org/argouml/notation/providers/uml/AssociationEndNameNotationUml.java
+END

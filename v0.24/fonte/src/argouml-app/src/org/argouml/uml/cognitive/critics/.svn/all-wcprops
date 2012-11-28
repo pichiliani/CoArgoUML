@@ -1,0 +1,683 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics
+END
+CrNoTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoTransitions.java
+END
+CrMultipleAgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMultipleAgg.java
+END
+CrMultiComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMultiComposite.java
+END
+CrInvalidForkTriggerOrGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidForkTriggerOrGuard.java
+END
+CrReservedName.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrReservedName.java
+END
+CrNoOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoOperations.java
+END
+CrCircularAssocClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrCircularAssocClass.java
+END
+WizTooMany.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizTooMany.java
+END
+CrComponentWithoutNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrComponentWithoutNode.java
+END
+CrAttrNameConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrAttrNameConflict.java
+END
+WizManyNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizManyNames.java
+END
+CrDupRoleNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrDupRoleNames.java
+END
+CrSubclassReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrSubclassReference.java
+END
+WizCueCards.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizCueCards.java
+END
+CrWrongDepEnds.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrWrongDepEnds.java
+END
+CrNoGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoGuard.java
+END
+CrMissingOperName.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMissingOperName.java
+END
+WizAddConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizAddConstructor.java
+END
+CrNameConfusion.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNameConfusion.java
+END
+ClOperationCompartment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/ClOperationCompartment.java
+END
+CrOppEndConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrOppEndConflict.java
+END
+WizMEName.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizMEName.java
+END
+CrUselessAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUselessAbstract.java
+END
+CrInvalidHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidHistory.java
+END
+CrClassMustBeAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrClassMustBeAbstract.java
+END
+CrDupParamName.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrDupParamName.java
+END
+CrClassWithoutComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrClassWithoutComponent.java
+END
+CrTooManyOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrTooManyOper.java
+END
+CrInvalidJoinTriggerOrGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidJoinTriggerOrGuard.java
+END
+CrTooManyTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrTooManyTransitions.java
+END
+AbstractCrUnconventionalName.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/AbstractCrUnconventionalName.java
+END
+CrNoInitialState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoInitialState.java
+END
+CrUnconventionalClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUnconventionalClassName.java
+END
+CrOppEndVsAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrOppEndVsAttr.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/package.html
+END
+CrInvalidSynch.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidSynch.java
+END
+CrMultipleShallowHistoryStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMultipleShallowHistoryStates.java
+END
+CrUtilityViolated.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUtilityViolated.java
+END
+CrAssocNameConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrAssocNameConflict.java
+END
+CrInvalidPseudoStateTrigger.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidPseudoStateTrigger.java
+END
+WizBreakCircularComp.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizBreakCircularComp.java
+END
+CrUML.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUML.java
+END
+WizNavigable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizNavigable.java
+END
+CrInstanceWithoutClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInstanceWithoutClassifier.java
+END
+CrUnconventionalAttrName.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUnconventionalAttrName.java
+END
+CrMultipleDeepHistoryStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMultipleDeepHistoryStates.java
+END
+CrInvalidInitial.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidInitial.java
+END
+WizAssocComposite.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizAssocComposite.java
+END
+CrMissingClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMissingClassName.java
+END
+CrNameConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14463/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNameConflict.java
+END
+CrNodeInstanceWithoutClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNodeInstanceWithoutClassifier.java
+END
+CrNonAggDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNonAggDataType.java
+END
+ChildGenUML.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/ChildGenUML.java
+END
+CrDisambigClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrDisambigClassName.java
+END
+CrInterfaceWithoutComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInterfaceWithoutComponent.java
+END
+ClAttributeCompartment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/ClAttributeCompartment.java
+END
+CrEmptyPackage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrEmptyPackage.java
+END
+CrMissingStateName.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMissingStateName.java
+END
+WizOperName.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizOperName.java
+END
+CrMergeClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMergeClasses.java
+END
+CrAlreadyRealizes.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrAlreadyRealizes.java
+END
+CrDisambigStateName.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrDisambigStateName.java
+END
+CrWrongLinkEnds.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrWrongLinkEnds.java
+END
+CrNoTriggerOrGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoTriggerOrGuard.java
+END
+CrNoOutgoingTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoOutgoingTransitions.java
+END
+CrOperNameConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrOperNameConflict.java
+END
+CrForkOutgoingTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrForkOutgoingTransition.java
+END
+UMLWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/UMLWizard.java
+END
+CrNWayAgg.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNWayAgg.java
+END
+CrNoIncomingTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoIncomingTransitions.java
+END
+CrCrossNamespaceAssoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrCrossNamespaceAssoc.java
+END
+CrObjectWithoutClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrObjectWithoutClassifier.java
+END
+CrProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java
+END
+CrNodesOverlap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNodesOverlap.java
+END
+CrFinalSubclassed.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrFinalSubclassed.java
+END
+CrUnconventionalPackName.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUnconventionalPackName.java
+END
+CrInvalidBranch.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidBranch.java
+END
+CrUselessInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUselessInterface.java
+END
+CrTooManyClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrTooManyClasses.java
+END
+CrIllegalGeneralization.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrIllegalGeneralization.java
+END
+CrMissingAttrName.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMissingAttrName.java
+END
+CrConflictingComposites.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrConflictingComposites.java
+END
+CrZeroLengthEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrZeroLengthEdge.java
+END
+CrNameConflictAC.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNameConflictAC.java
+END
+CrSeqInstanceWithoutClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrSeqInstanceWithoutClassifier.java
+END
+CrInvalidFork.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidFork.java
+END
+AbstractCrTooMany.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/AbstractCrTooMany.java
+END
+CrIllegalName.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrIllegalName.java
+END
+CrTooManyStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrTooManyStates.java
+END
+CrCompInstanceWithoutNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrCompInstanceWithoutNode.java
+END
+CrObjectWithoutComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrObjectWithoutComponent.java
+END
+WizAddOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizAddOperation.java
+END
+CrCircularInheritance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrCircularInheritance.java
+END
+CrTooManyAssoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrTooManyAssoc.java
+END
+CrNodeInstanceInsideElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNodeInstanceInsideElement.java
+END
+CrComponentInstanceWithoutClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrComponentInstanceWithoutClassifier.java
+END
+CrTooManyAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrTooManyAttr.java
+END
+CrUnnavigableAssoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUnnavigableAssoc.java
+END
+CrInterfaceOperOnly.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInterfaceOperOnly.java
+END
+CrInterfaceAllPublic.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInterfaceAllPublic.java
+END
+CrCircularComposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrCircularComposition.java
+END
+WizAddInstanceVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/WizAddInstanceVariable.java
+END
+CrNavFromInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNavFromInterface.java
+END
+CrMultipleInitialStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrMultipleInitialStates.java
+END
+CrUnconventionalOperName.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrUnconventionalOperName.java
+END
+CrConstructorNeeded.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrConstructorNeeded.java
+END
+CrNoInstanceVariables.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoInstanceVariables.java
+END
+CrNodeInsideElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNodeInsideElement.java
+END
+CrNoAssociations.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrNoAssociations.java
+END
+CrJoinIncomingTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrJoinIncomingTransition.java
+END
+ClClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/ClClassName.java
+END
+CrInvalidJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/CrInvalidJoin.java
+END
+InitCognitiveCritics.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/critics/InitCognitiveCritics.java
+END

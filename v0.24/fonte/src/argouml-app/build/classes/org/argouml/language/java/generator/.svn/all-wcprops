@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14719/trunk/src/argouml-app/src/org/argouml/language/java/generator
+END
+OperationCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/OperationCodePiece.java
+END
+InterfaceCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/InterfaceCodePiece.java
+END
+CompositeCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14481/trunk/src/argouml-app/src/org/argouml/language/java/generator/CompositeCodePiece.java
+END
+AttributeCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/AttributeCodePiece.java
+END
+ClassCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/ClassCodePiece.java
+END
+ParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/ParseState.java
+END
+ClassifierEndCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/ClassifierEndCodePiece.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/README
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/package.html
+END
+AnonymousClassCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/AnonymousClassCodePiece.java
+END
+CodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/CodePiece.java
+END
+CodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/CodeGenerator.java
+END
+NamedCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/NamedCodePiece.java
+END
+java.g
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/java.g
+END
+CodePieceCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/CodePieceCollector.java
+END
+GeneratorJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14719/trunk/src/argouml-app/src/org/argouml/language/java/generator/GeneratorJava.java
+END
+SimpleCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/SimpleCodePiece.java
+END
+PackageCodePiece.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/language/java/generator/PackageCodePiece.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14878/trunk/src/argouml-app/src/org/argouml/uml/reveng/java
+END
+ClassifierNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/ClassifierNotFoundException.java
+END
+PackageContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14726/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/PackageContext.java
+END
+Modeller.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14723/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/Modeller.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14726/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/Context.java
+END
+ParameterDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/ParameterDeclaration.java
+END
+java.g
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/java.g
+END
+OuterClassifierContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14762/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/OuterClassifierContext.java
+END
+ClassifierContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/ClassifierContext.java
+END
+ArgoToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/ArgoToken.java
+END
+ParseState.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/ParseState.java
+END
+JavaImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14878/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/JavaImport.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/reveng/java/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/argouml/!svn/ver/14719/trunk/src/argouml-app/src/org/argouml/ocl
+END
+OCLEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ocl/OCLEvaluator.java
+END
+OCLExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ocl/OCLExpander.java
+END
+OCLUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ocl/OCLUtil.java
+END
+ArgoFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14719/trunk/src/argouml-app/src/org/argouml/ocl/ArgoFacade.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ocl/package.html
+END
+CriticOclEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ocl/CriticOclEvaluator.java
+END

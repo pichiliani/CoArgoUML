@@ -1,0 +1,146 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-16T16:36:10.131706Z
+14960
+mvw
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+default.properties
+file
+
+
+
+
+2008-06-16T20:50:21.812500Z
+c08e965a483e1694414f6738745b1286
+2008-06-14T20:50:02.594970Z
+14942
+linus
+has-props
+
+ArgoUML.launch
+file
+
+
+
+
+2008-06-16T20:50:21.812500Z
+c4d474f066aef9e5cd685ef2c70c1f9d
+2008-06-14T22:43:43.921068Z
+14948
+penyaskito
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-16T20:50:21.812500Z
+714c46ce022bb71d4e660e1065664148
+2008-04-30T22:44:30.779342Z
+14543
+bobtarling
+
+tests
+dir
+
+.project
+file
+
+
+
+
+2008-06-16T20:50:21.812500Z
+3eefd31e2489ada8c8f2ee6df26a3c2f
+2008-02-17T15:02:23.834448Z
+14120
+linus
+
+lib
+dir
+
+ArgoUML DEBUG.launch
+file
+
+
+
+
+2008-06-16T20:50:21.828125Z
+cc26aac0c0278b99ec2038ad067ddbb2
+2008-06-14T22:43:43.921068Z
+14948
+penyaskito
+
+src
+dir
+
+.externalToolBuilders
+dir
+
+plugin.properties
+file
+
+
+
+
+2008-06-16T20:50:21.828125Z
+bf663f314e5539d18355b12c9bfeb183
+2008-03-31T21:10:27.455817Z
+14270
+b00__1
+has-props
+
+build.properties
+file
+
+
+
+
+2008-06-16T20:50:21.828125Z
+74ff8aface76a053ad4daece28451300
+2008-04-30T22:44:30.779342Z
+14543
+bobtarling
+has-props
+
+.settings
+dir
+
+build.xml
+file
+
+
+
+
+2008-06-16T20:50:21.828125Z
+4961e336ca823ca1a0753ca81fde5472
+2008-06-14T18:41:58.050827Z
+14927
+linus
+has-props
+

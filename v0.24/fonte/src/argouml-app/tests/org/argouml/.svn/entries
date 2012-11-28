@@ -1,0 +1,93 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/tests/org/argouml
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-15T21:12:38.087716Z
+14956
+tfmorris
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+i18n
+dir
+
+kernel
+dir
+
+language
+dir
+
+persistence
+dir
+
+cognitive
+dir
+
+notation
+dir
+
+uml
+dir
+
+FileHelper.java
+file
+
+
+
+
+2008-06-16T20:48:50.843750Z
+3933ab8e2251d556caaaa2edc6fac251
+2008-01-08T00:20:26.359285Z
+14029
+euluis
+has-props
+
+profile
+dir
+
+model
+dir
+
+application
+dir
+
+TestDependencies.java
+file
+
+
+
+
+2008-06-16T20:48:50.859375Z
+5c4ac50ce86c200c005a9c261f321aa6
+2008-02-28T23:01:46.946335Z
+14165
+euluis
+has-props
+
+moduleloader
+dir
+
+ui
+dir
+
+util
+dir
+

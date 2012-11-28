@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 124
+*.class
+JavaLexer.java
+JavaRecognizer.java
+JavaTokenTypes.java
+JavaTokenTypes.txt
+JavaLexer.smap
+JavaRecognizer.smap
+
+END

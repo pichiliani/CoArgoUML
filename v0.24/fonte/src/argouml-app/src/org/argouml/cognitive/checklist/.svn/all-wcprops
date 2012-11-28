@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/checklist
+END
+CheckManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/checklist/CheckManager.java
+END
+Checklist.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/checklist/Checklist.java
+END
+CheckItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/checklist/CheckItem.java
+END
+ChecklistStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/checklist/ChecklistStatus.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/cognitive/checklist/package.html
+END

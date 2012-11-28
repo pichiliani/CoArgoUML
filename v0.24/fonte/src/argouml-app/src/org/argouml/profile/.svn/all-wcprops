@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/argouml/!svn/ver/14813/trunk/src/argouml-app/src/org/argouml/profile
+END
+ResourceModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14666/trunk/src/argouml-app/src/org/argouml/profile/ResourceModelLoader.java
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14666/trunk/src/argouml-app/src/org/argouml/profile/Profile.java
+END
+StreamModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14667/trunk/src/argouml-app/src/org/argouml/profile/StreamModelLoader.java
+END
+ProfileModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14666/trunk/src/argouml-app/src/org/argouml/profile/ProfileModelLoader.java
+END
+FormatingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/FormatingStrategy.java
+END
+DefaultTypeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/DefaultTypeStrategy.java
+END
+ZipModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14667/trunk/src/argouml-app/src/org/argouml/profile/ZipModelLoader.java
+END
+URLModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14812/trunk/src/argouml-app/src/org/argouml/profile/URLModelLoader.java
+END
+ReaderModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14667/trunk/src/argouml-app/src/org/argouml/profile/ReaderModelLoader.java
+END
+UserDefinedProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14813/trunk/src/argouml-app/src/org/argouml/profile/UserDefinedProfile.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/package.html
+END
+UserProfileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/UserProfileReference.java
+END
+ProfileException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/ProfileException.java
+END
+ProfileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14812/trunk/src/argouml-app/src/org/argouml/profile/ProfileReference.java
+END
+ProfileFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14666/trunk/src/argouml-app/src/org/argouml/profile/ProfileFacade.java
+END
+FileModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14667/trunk/src/argouml-app/src/org/argouml/profile/FileModelLoader.java
+END
+CoreProfileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14609/trunk/src/argouml-app/src/org/argouml/profile/CoreProfileReference.java
+END
+ProfileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/ProfileManager.java
+END
+FigNodeStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/FigNodeStrategy.java
+END

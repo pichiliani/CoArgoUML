@@ -1,0 +1,57 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/src/org/argouml/uml/diagram/use_case
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-15T10:07:50.959497Z
+14952
+mvw
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+UseCaseDiagramGraphModel.java
+file
+
+
+
+
+2008-06-16T20:49:31.546875Z
+3a484b048995fcbb9cbc2ac05a46e9d7
+2007-11-26T00:31:27.779165Z
+13842
+tfmorris
+has-props
+
+ui
+dir
+
+package.html
+file
+
+
+
+
+2008-06-16T20:49:31.546875Z
+64a30fb5d79b80bb668226c6e80ed57f
+2003-04-29T19:31:13.000000Z
+3882
+alexb
+has-props
+

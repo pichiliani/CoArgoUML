@@ -1,0 +1,15 @@
+* Para compilar o GEF:
+
+c:\Argo\GEF\SRC\BUILD PACKAGE
+
+Copiar o arquivo c:\Argo\GEF\LIB\gef.jar
+
+para C:\ARGO\FONTE\SRC\ARGOUML-APP\LIB
+
+* Para compilar o ARGOUML:
+
+C:\Argo\fonte\src\build package
+
+* Para rodar o ArgoUML
+
+c:\Argo\fonte\src\argouml-build\build\java -jar argouml.jar

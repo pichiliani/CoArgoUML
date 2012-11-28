@@ -1,0 +1,41 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/tests/org/argouml/i18n
+http://argouml.tigris.org/svn/argouml
+
+
+
+2007-04-29T06:59:20.190161Z
+12449
+mvw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+TestTranslator.java
+file
+
+
+
+
+2008-06-16T20:48:37.406250Z
+df447b3a46454cdad823ccfe6615d719
+2007-04-29T06:59:20.190161Z
+12449
+mvw
+has-props
+

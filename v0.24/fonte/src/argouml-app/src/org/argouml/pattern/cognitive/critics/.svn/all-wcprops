@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics
+END
+CrConsiderFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics/CrConsiderFacade.java
+END
+InitPatternCritics.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics/InitPatternCritics.java
+END
+CrSingletonViolatedOnlyPrivateConstructors.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics/CrSingletonViolatedOnlyPrivateConstructors.java
+END
+CrSingletonViolatedMissingStaticAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics/CrSingletonViolatedMissingStaticAttr.java
+END
+CrConsiderSingleton.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics/CrConsiderSingleton.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/pattern/cognitive/critics/package.html
+END

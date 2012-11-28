@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14803/trunk/src/argouml-app/src/org/argouml/kernel
+END
+UndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/UndoManager.java
+END
+ProjectManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/ProjectManager.java
+END
+AbstractCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/AbstractCommand.java
+END
+NonUndoableCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/NonUndoableCommand.java
+END
+MemberList.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14521/trunk/src/argouml-app/src/org/argouml/kernel/MemberList.java
+END
+DefaultUndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14727/trunk/src/argouml-app/src/org/argouml/kernel/DefaultUndoManager.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/kernel/Project.java
+END
+DelayedChangeNotify.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/DelayedChangeNotify.java
+END
+DelayedVChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/DelayedVChangeListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/package.html
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/Command.java
+END
+AbstractProjectMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14436/trunk/src/argouml-app/src/org/argouml/kernel/AbstractProjectMember.java
+END
+ProjectSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/ProjectSettings.java
+END
+ProjectImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14803/trunk/src/argouml-app/src/org/argouml/kernel/ProjectImpl.java
+END
+ProfileConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/ProfileConfiguration.java
+END
+ProjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/ProjectFactory.java
+END
+ProjectMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/kernel/ProjectMember.java
+END

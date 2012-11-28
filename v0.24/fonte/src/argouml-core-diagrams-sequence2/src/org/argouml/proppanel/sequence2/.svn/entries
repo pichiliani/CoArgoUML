@@ -1,0 +1,40 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/proppanel/sequence2
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-05-01T19:19:31.003660Z
+14563
+mvw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+SequenceDiagramPropPanelFactory.java
+file
+
+
+
+
+2008-06-16T20:50:27.640625Z
+7248c82857b6ba4f26b0919f785453e3
+2008-05-01T19:19:31.003660Z
+14563
+mvw
+

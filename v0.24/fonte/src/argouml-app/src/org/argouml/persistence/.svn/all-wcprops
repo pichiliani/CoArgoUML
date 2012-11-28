@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/argouml/!svn/ver/14814/trunk/src/argouml-app/src/org/argouml/persistence
+END
+XmlFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14594/trunk/src/argouml-app/src/org/argouml/persistence/XmlFilePersister.java
+END
+ArgoTokenTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/ArgoTokenTable.java
+END
+todo.tee
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/todo.tee
+END
+hist.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/hist.dtd
+END
+ProjectFileView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/ProjectFileView.java
+END
+ResolvedCriticXMLHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14754/trunk/src/argouml-app/src/org/argouml/persistence/ResolvedCriticXMLHelper.java
+END
+SAXParserBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/SAXParserBase.java
+END
+PersistenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/PersistenceException.java
+END
+ZipFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14576/trunk/src/argouml-app/src/org/argouml/persistence/ZipFilePersister.java
+END
+XMLTokenTableBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/XMLTokenTableBase.java
+END
+AbstractFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14627/trunk/src/argouml-app/src/org/argouml/persistence/AbstractFilePersister.java
+END
+ToDoItemXMLHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14443/trunk/src/argouml-app/src/org/argouml/persistence/ToDoItemXMLHelper.java
+END
+XmiExtensionParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/XmiExtensionParser.java
+END
+XMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/XMLElement.java
+END
+log.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/log.dtd
+END
+SaveException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14439/trunk/src/argouml-app/src/org/argouml/persistence/SaveException.java
+END
+TodoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/TodoParser.java
+END
+argo.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/argo.dtd
+END
+registry.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/registry.xsd
+END
+OldModelMemberFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14594/trunk/src/argouml-app/src/org/argouml/persistence/OldModelMemberFilePersister.java
+END
+ModelMemberFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14594/trunk/src/argouml-app/src/org/argouml/persistence/ModelMemberFilePersister.java
+END
+ProfileConfigurationFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14814/trunk/src/argouml-app/src/org/argouml/persistence/ProfileConfigurationFilePersister.java
+END
+PGML.tee
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14652/trunk/src/argouml-app/src/org/argouml/persistence/PGML.tee
+END
+todo.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/todo.dtd
+END
+config.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/config.dtd
+END
+PGMLStackParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14665/trunk/src/argouml-app/src/org/argouml/persistence/PGMLStackParser.java
+END
+VersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/VersionException.java
+END
+ArgoParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14575/trunk/src/argouml-app/src/org/argouml/persistence/ArgoParser.java
+END
+ProjectFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/ProjectFilePersister.java
+END
+MemberFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14594/trunk/src/argouml-app/src/org/argouml/persistence/MemberFilePersister.java
+END
+PrivateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/src/org/argouml/persistence/PrivateHandler.java
+END
+OffenderXMLHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/OffenderXMLHelper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/package.html
+END
+TodoTokenTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/TodoTokenTable.java
+END
+PersistenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14575/trunk/src/argouml-app/src/org/argouml/persistence/PersistenceManager.java
+END
+OpenException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/OpenException.java
+END
+UmlVersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14518/trunk/src/argouml-app/src/org/argouml/persistence/UmlVersionException.java
+END
+OldZargoFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14575/trunk/src/argouml-app/src/org/argouml/persistence/OldZargoFilePersister.java
+END
+PgmlUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/PgmlUtility.java
+END
+ZargoFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14523/trunk/src/argouml-app/src/org/argouml/persistence/ZargoFilePersister.java
+END
+argo.tee
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14652/trunk/src/argouml-app/src/org/argouml/persistence/argo.tee
+END
+XmiFormatException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14518/trunk/src/argouml-app/src/org/argouml/persistence/XmiFormatException.java
+END
+FigEdgeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/FigEdgeHandler.java
+END
+pgml.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/pgml.dtd
+END
+XmiInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14753/trunk/src/argouml-app/src/org/argouml/persistence/XmiInputStream.java
+END
+TodoListMemberFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14594/trunk/src/argouml-app/src/org/argouml/persistence/TodoListMemberFilePersister.java
+END
+XmiReferenceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14518/trunk/src/argouml-app/src/org/argouml/persistence/XmiReferenceException.java
+END
+XmlInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/XmlInputStream.java
+END
+DiagramMemberFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/DiagramMemberFilePersister.java
+END
+XmiFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14575/trunk/src/argouml-app/src/org/argouml/persistence/XmiFilePersister.java
+END
+UmlFilePersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14652/trunk/src/argouml-app/src/org/argouml/persistence/UmlFilePersister.java
+END

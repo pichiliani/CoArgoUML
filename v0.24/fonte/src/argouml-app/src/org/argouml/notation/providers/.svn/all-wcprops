@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/notation/providers
+END
+MessageNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/MessageNotation.java
+END
+ExtensionPointNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/ExtensionPointNotation.java
+END
+ComponentInstanceNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/ComponentInstanceNotation.java
+END
+MultiplicityNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/MultiplicityNotation.java
+END
+TransitionNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/TransitionNotation.java
+END
+StateBodyNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/StateBodyNotation.java
+END
+AssociationRoleNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/AssociationRoleNotation.java
+END
+ObjectFlowStateStateNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/ObjectFlowStateStateNotation.java
+END
+OperationNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/OperationNotation.java
+END
+ObjectFlowStateTypeNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14492/trunk/src/argouml-app/src/org/argouml/notation/providers/ObjectFlowStateTypeNotation.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14798/trunk/src/argouml-app/src/org/argouml/notation/providers/package.html
+END
+AttributeNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/AttributeNotation.java
+END
+EnumerationLiteralNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14835/trunk/src/argouml-app/src/org/argouml/notation/providers/EnumerationLiteralNotation.java
+END
+AssociationEndNameNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/AssociationEndNameNotation.java
+END
+ClassifierRoleNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14492/trunk/src/argouml-app/src/org/argouml/notation/providers/ClassifierRoleNotation.java
+END
+ObjectNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/ObjectNotation.java
+END
+NodeInstanceNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/NodeInstanceNotation.java
+END
+ModelElementNameNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/ModelElementNameNotation.java
+END
+CallStateNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/CallStateNotation.java
+END
+AssociationNameNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/AssociationNameNotation.java
+END
+ActionStateNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/ActionStateNotation.java
+END

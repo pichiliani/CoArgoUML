@@ -1,0 +1,47 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/src/org/argouml/language
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-05-13T13:48:24.607228Z
+14719
+tfmorris
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+java
+dir
+
+ui
+dir
+
+package.html
+file
+
+
+
+
+2008-06-16T20:49:09.187500Z
+489b4a68eee9b6fd2b06293c4d6304b8
+2004-04-20T06:34:07.000000Z
+5916
+linus
+has-props
+

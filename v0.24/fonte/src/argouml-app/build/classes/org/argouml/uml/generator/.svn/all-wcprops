@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/argouml/!svn/ver/14721/trunk/src/argouml-app/src/org/argouml/uml/generator
+END
+SourceUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/generator/SourceUnit.java
+END
+GeneratorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/generator/GeneratorManager.java
+END
+CodeGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14654/trunk/src/argouml-app/src/org/argouml/uml/generator/CodeGenerator.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14655/trunk/src/argouml-app/src/org/argouml/uml/generator/Language.java
+END
+TempFileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14721/trunk/src/argouml-app/src/org/argouml/uml/generator/TempFileUtils.java
+END
+GeneratorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/generator/GeneratorHelper.java
+END
+AbstractSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/generator/AbstractSection.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/generator/package.html
+END

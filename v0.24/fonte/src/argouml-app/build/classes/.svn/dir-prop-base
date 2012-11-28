@@ -1,0 +1,49 @@
+K 14
+subclipse:tags
+V 1873
+11205,work_dependency_cycles_tfmorris,/branches/work_dependency_cycles_tfmorris/src_new,branch
+11241,work_argoeclipse_tfmorris,/branches/work_argoeclipse_tfmorris/src_new,branch
+511,VERSION_0_8_1,/releases/VERSION_0_8_1/src_new,tag
+1844,VERSION_0_10_1,/releases/VERSION_0_10_1/src_new,tag
+2628,VERSION_0_12,/releases/VERSION_0_12/src_new,tag
+4623,VERSION_0_14_1,/releases/VERSION_0_14_1/src_new,tag
+6657,VERSION_0_16_1,/releases/VERSION_0_16_1/src_new,tag
+8055,VERSION_0_18_1,/releases/VERSION_0_18_1/src_new,tag
+9699,VERSION_0_20,/releases/VERSION_0_20/src_new,tag
+10969,VERSION_0_22,/releases/VERSION_0_22/src_new,tag
+11145,VERSION_0_23_1,/releases/VERSION_0_23_1/src_new,tag
+11246,Root_work_argoeclipse_tfmorris,/tags/Root_work_argoeclipse_tfmorris/src_new,tag
+11247,Root_work_dependency_cycles_tfmorris,/tags/Root_work_dependency_cycles_tfmorris/src_new,tag
+11260,VERSION_0_23_2,/releases/VERSION_0_23_2/src_new,tag
+11372,VERSION_0_23_3,/releases/VERSION_0_23_3/src_new,tag
+11586,VERSION_0_23_4,/releases/VERSION_0_23_4/src_new,tag
+11709,VERSION_0_23_5,/releases/VERSION_0_23_5/src_new,tag
+11806,VERSION_0_24_ALPHA_1,/releases/VERSION_0_24_ALPHA_1/src_new,tag
+11860,VERSION_0_24_ALPHA_2,/releases/VERSION_0_24_ALPHA_2/src_new,tag
+11894,VERSION_0_24_ALPHA_3,/releases/VERSION_0_24_ALPHA_3/src_new,tag
+11930,VERSION_0_24_BETA_1,/releases/VERSION_0_24_BETA_1/src_new,tag
+11971,VERSION_0_24_BETA_2,/releases/VERSION_0_24_BETA_2/src_new,tag
+12001,VERSION_0_24_BETA_3,/releases/VERSION_0_24_BETA_3/src_new,tag
+12022,VERSION_0_24,/releases/VERSION_0_24/src_new,tag
+12175,VERSION_0_25_1,/releases/VERSION_0_25_1/src_new,tag
+12359,VERSION_0_25_2,/releases/VERSION_0_25_2/src_new,tag
+12636,VERSION_0_25_3,/releases/VERSION_0_25_3/src_new,tag
+13865,work_testsvn2_linus_src_new,/branches/work_testsvn2_linus_src_new,branch
+13923,VERSION_0_25_4,/releases/VERSION_0_25_4/src_new,tag
+
+K 10
+svn:ignore
+V 177
+build.properties
+*.log
+test.zargo
+junit*.properties
+Alittlebitofeverything2.zargo
+test.xmi
+build-reports.xml
+jcoverage.ser
+reporting.properties
+argouml.log.1
+build-eclipse
+build
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics
+END
+AbstractTestCrTooMany.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/AbstractTestCrTooMany.java
+END
+TestCrDupParamName.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrDupParamName.java
+END
+TestCrTooManyStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrTooManyStates.java
+END
+TestCrMissingStateName.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrMissingStateName.java
+END
+TestCrTooManyOper.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrTooManyOper.java
+END
+TestCrTooManyAssoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrTooManyAssoc.java
+END
+TestCrTooManyAttr.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrTooManyAttr.java
+END
+TestCrTooManyTransitions.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrTooManyTransitions.java
+END
+TestCrNoInitialState.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrNoInitialState.java
+END
+TestCrUnconventionalClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrUnconventionalClassName.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/package.html
+END
+TestCrUnconventionalOperName.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrUnconventionalOperName.java
+END
+TestCrAssocNameConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrAssocNameConflict.java
+END
+TestCrNoAssociations.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrNoAssociations.java
+END
+TestCrUnconventionalAttrName.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrUnconventionalAttrName.java
+END
+TestCrMissingOperName.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrMissingOperName.java
+END
+TestCrInvalidInitial.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrInvalidInitial.java
+END
+TestCrMissingClassName.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrMissingClassName.java
+END
+TestCrNameConflict.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrNameConflict.java
+END
+TestCrUnconventionalPackName.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrUnconventionalPackName.java
+END
+TestCrMissingAttrName.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrMissingAttrName.java
+END
+TestCrInvalidHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/TestCrInvalidHistory.java
+END
+AbstractTestMissingName.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/cognitive/critics/AbstractTestMissingName.java
+END

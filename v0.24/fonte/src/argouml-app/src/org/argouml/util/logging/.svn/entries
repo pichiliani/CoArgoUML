@@ -1,0 +1,54 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/src/org/argouml/util/logging
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-04-12T12:30:46.853516Z
+14330
+penyaskito
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+SimpleTimer.java
+file
+
+
+
+
+2008-06-16T20:50:19.750000Z
+e5ff2e3f65605bdc7248980a5d2dbfa6
+2008-04-12T12:30:46.853516Z
+14330
+penyaskito
+has-props
+
+package.html
+file
+
+
+
+
+2008-06-16T20:50:19.750000Z
+f61d00bbe24ddc98110350a9a16aec94
+2007-07-11T00:28:01.580473Z
+13059
+linus
+has-props
+

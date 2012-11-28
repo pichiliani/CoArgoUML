@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/util
+END
+ItemUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14538/trunk/src/argouml-app/src/org/argouml/util/ItemUID.java
+END
+IteratorEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/IteratorEnumeration.java
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/Tools.java
+END
+EnumerationIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/EnumerationIterator.java
+END
+ArgoFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/ArgoFrame.java
+END
+SingleElementIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/SingleElementIterator.java
+END
+ArgoDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/ArgoDialog.java
+END
+FileFilters.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/FileFilters.java
+END
+JavaRuntimeUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14477/trunk/src/argouml-app/src/org/argouml/util/JavaRuntimeUtility.java
+END
+IItemUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/src/org/argouml/util/IItemUID.java
+END
+SuffixFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/SuffixFilter.java
+END
+KeyEventUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/KeyEventUtils.java
+END
+FileConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/FileConstants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/package.html
+END
+MyTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/MyTokenizer.java
+END
+ToolBarUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/ToolBarUtility.java
+END
+ThreadUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/ThreadUtils.java
+END
+CollectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/CollectionUtil.java
+END
+CustomSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/CustomSeparator.java
+END
+ConfigLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/util/ConfigLoader.java
+END
+UIUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/util/UIUtils.java
+END

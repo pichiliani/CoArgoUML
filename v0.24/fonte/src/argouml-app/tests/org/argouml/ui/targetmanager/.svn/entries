@@ -1,0 +1,54 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/tests/org/argouml/ui/targetmanager
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-04-23T07:08:34.177049Z
+14440
+mvw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+TestTargetManager.java
+file
+
+
+
+
+2008-06-16T20:48:50.718750Z
+65f2e55f4db893460e6b16f152293a2e
+2008-04-23T07:08:34.177049Z
+14440
+mvw
+has-props
+
+package.html
+file
+
+
+
+
+2008-06-16T20:48:50.718750Z
+1fe65e3124b2acd01d6547e51f4e3c2f
+2004-09-19T08:28:02.000000Z
+6735
+mvw
+has-props
+

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations
+END
+TestUMLAssociationRoleAssociationEndRoleListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLAssociationRoleAssociationEndRoleListModel.java
+END
+TestUMLClassifierRoleAvailableFeaturesListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLClassifierRoleAvailableFeaturesListModel.java
+END
+TestUMLCollaborationRepresentedOperationComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLCollaborationRepresentedOperationComboBoxModel.java
+END
+TestUMLInteractionMessagesListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLInteractionMessagesListModel.java
+END
+TestUMLMessageReceiverListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLMessageReceiverListModel.java
+END
+TestUMLAssociationEndRoleBaseListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLAssociationEndRoleBaseListModel.java
+END
+TestUMLMessageActionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLMessageActionListModel.java
+END
+TestUMLMessagePredecessorListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLMessagePredecessorListModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/package.html
+END
+TestUMLMessageSenderListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLMessageSenderListModel.java
+END
+TestUMLClassifierRoleAvailableContentsListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLClassifierRoleAvailableContentsListModel.java
+END
+TestUMLAssociationRoleBaseComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLAssociationRoleBaseComboBoxModel.java
+END
+TestUMLInteractionCollaborationListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLInteractionCollaborationListModel.java
+END
+TestUMLCollaborationRepresentedClassifierComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLCollaborationRepresentedClassifierComboBoxModel.java
+END
+TestUMLCollaborationConstraintListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLCollaborationConstraintListModel.java
+END
+TestUMLMessageActivatorComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLMessageActivatorComboBoxModel.java
+END
+TestUMLClassifierRoleBaseListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLClassifierRoleBaseListModel.java
+END
+TestUMLAssociationRoleMessageListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/behavior/collaborations/TestUMLAssociationRoleMessageListModel.java
+END

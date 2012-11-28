@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14923/trunk/src/argouml-app/src/org/argouml/ui/cmd
+END
+ActionAboutArgoUML.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionAboutArgoUML.java
+END
+GenericArgoMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14923/trunk/src/argouml-app/src/org/argouml/ui/cmd/GenericArgoMenuBar.java
+END
+InitUiCmdSubsystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/InitUiCmdSubsystem.java
+END
+SettingsTabShortcuts.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/SettingsTabShortcuts.java
+END
+ActionExit.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionExit.java
+END
+CmdSetPreferredSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/ui/cmd/CmdSetPreferredSize.java
+END
+ActionAdjustSnap.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionAdjustSnap.java
+END
+LastRecentlyUsedMenuList.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14581/trunk/src/argouml-app/src/org/argouml/ui/cmd/LastRecentlyUsedMenuList.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/Action.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/package.html
+END
+ActionFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionFind.java
+END
+ShortcutField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ShortcutField.java
+END
+ShortcutMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14730/trunk/src/argouml-app/src/org/argouml/ui/cmd/ShortcutMgr.java
+END
+NavigateTargetBackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/NavigateTargetBackAction.java
+END
+ZoomActionProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ZoomActionProxy.java
+END
+ActionShowXMLDump.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionShowXMLDump.java
+END
+ActionHelp.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14730/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java
+END
+ActionNew.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionNew.java
+END
+PrintManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/PrintManager.java
+END
+ShortcutChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ShortcutChangedEvent.java
+END
+NavigateTargetForwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/NavigateTargetForwardAction.java
+END
+ActionNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionNotation.java
+END
+ActionPrint.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionPrint.java
+END
+ShortcutChangedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ShortcutChangedListener.java
+END
+ActionPageSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionPageSetup.java
+END
+ActionGotoDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionGotoDiagram.java
+END
+ActionSystemInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionSystemInfo.java
+END
+ActionAdjustGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/cmd/ActionAdjustGrid.java
+END

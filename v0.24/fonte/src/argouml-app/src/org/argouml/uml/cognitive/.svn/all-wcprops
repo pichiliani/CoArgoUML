@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/argouml/!svn/ver/14679/trunk/src/argouml-app/src/org/argouml/uml/cognitive
+END
+ProjectMemberTodoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/ProjectMemberTodoList.java
+END
+UMLToDoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14534/trunk/src/argouml-app/src/org/argouml/uml/cognitive/UMLToDoItem.java
+END
+UMLDecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/UMLDecision.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/package.html
+END
+ChildGenFind.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/cognitive/ChildGenFind.java
+END

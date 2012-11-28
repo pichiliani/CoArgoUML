@@ -1,0 +1,1391 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14514/trunk/src/argouml-app/src/org/argouml/Images
+END
+Pattern.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Pattern.gif
+END
+UseCaseDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/UseCaseDiagram.gif
+END
+ActivityGraph.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ActivityGraph.gif
+END
+SignalEvent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SignalEvent.gif
+END
+InputOutput.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/InputOutput.gif
+END
+TerminateAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/TerminateAction.gif
+END
+Enumeration.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Enumeration.gif
+END
+Permission.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Permission.gif
+END
+Reception.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Reception.gif
+END
+PostIt25.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostIt25.gif
+END
+Transition.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Transition.gif
+END
+PostItD50.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItD50.gif
+END
+Start.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Start.gif
+END
+DistributeHorizontalSpacing.gif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DistributeHorizontalSpacing.gif
+END
+NewToDoItem.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NewToDoItem.gif
+END
+TimeEvent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/TimeEvent.gif
+END
+NavigateUpNext.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NavigateUpNext.gif
+END
+Trigger.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Trigger.gif
+END
+ToBack.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ToBack.gif
+END
+CompositeState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CompositeState.gif
+END
+Class.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Class.gif
+END
+ClassifierRole.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ClassifierRole.gif
+END
+Object.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Object.gif
+END
+PostItD99.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItD99.gif
+END
+AlignRights.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignRights.gif
+END
+DistributeHorizontalCenters.gif
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DistributeHorizontalCenters.gif
+END
+CallEvent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CallEvent.gif
+END
+Hierarchical.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Hierarchical.gif
+END
+Backward.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Backward.gif
+END
+Stimulus.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Stimulus.gif
+END
+SynchState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SynchState.gif
+END
+AlignHorizontalCenters.gif
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignHorizontalCenters.gif
+END
+Junction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Junction.gif
+END
+Initial.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Initial.gif
+END
+NewParameter.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NewParameter.gif
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/package.html
+END
+SimpleState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SimpleState.gif
+END
+SendEmailToExpert.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SendEmailToExpert.gif
+END
+JavaNotation.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/JavaNotation.gif
+END
+PostIt75.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostIt75.gif
+END
+DeepHistory.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DeepHistory.gif
+END
+Circle.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Circle.gif
+END
+FixItBack.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/FixItBack.gif
+END
+Multtrigger.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Multtrigger.gif
+END
+StateDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StateDiagram.gif
+END
+ArgoIcon16x16.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14514/trunk/src/argouml-app/src/org/argouml/Images/ArgoIcon16x16.gif
+END
+Flow.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Flow.gif
+END
+Abstraction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Abstraction.gif
+END
+Partition.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Partition.gif
+END
+Recursion.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Recursion.gif
+END
+AddOperation.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AddOperation.gif
+END
+DependencyRight.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DependencyRight.gif
+END
+Association.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Association.gif
+END
+DistributeVerticalSpacing.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DistributeVerticalSpacing.gif
+END
+ConfigurePerspectives.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ConfigurePerspectives.gif
+END
+IterationExpression.gif
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/IterationExpression.gif
+END
+Event.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Event.gif
+END
+TransitionDown.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/TransitionDown.gif
+END
+NavigateForward.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NavigateForward.gif
+END
+AssociationEndRole.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AssociationEndRole.gif
+END
+SaveProject.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SaveProject.gif
+END
+Collaboration.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Collaboration.gif
+END
+DistributeVerticalCenters.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DistributeVerticalCenters.gif
+END
+ActionExpression.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ActionExpression.gif
+END
+Branch.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Branch.gif
+END
+Trace.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Trace.gif
+END
+AssociationRole.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AssociationRole.gif
+END
+AddInternalTransition.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AddInternalTransition.gif
+END
+Fork.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Fork.gif
+END
+AlignBottoms.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignBottoms.gif
+END
+Component.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Component.gif
+END
+AlignToGrid.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignToGrid.gif
+END
+Stereotype.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Stereotype.gif
+END
+ComboNav.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ComboNav.gif
+END
+NudgeUp.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NudgeUp.gif
+END
+AlignVerticalCenters.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignVerticalCenters.gif
+END
+Splash.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Splash.png
+END
+SignalReceiving.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SignalReceiving.gif
+END
+AddAttribute.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AddAttribute.gif
+END
+ClassifierInState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ClassifierInState.gif
+END
+Broom.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Broom.gif
+END
+Uses.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Uses.gif
+END
+Select.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Select.gif
+END
+Method.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Method.gif
+END
+CommentLink.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CommentLink.gif
+END
+ActivityDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ActivityDiagram.gif
+END
+Argument.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Argument.gif
+END
+LinkEnd.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/LinkEnd.gif
+END
+Message.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Message.gif
+END
+Text.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Text.gif
+END
+SignalSending.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SignalSending.gif
+END
+UninterpretedAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/UninterpretedAction.gif
+END
+SelfAssociation.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SelfAssociation.gif
+END
+PostIt50.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostIt50.gif
+END
+NodeOne.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NodeOne.gif
+END
+Multiplicity.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Multiplicity.gif
+END
+Choice.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Choice.gif
+END
+Refinement.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Refinement.gif
+END
+Activity.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Activity.gif
+END
+PostItMulti.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItMulti.gif
+END
+ObjDelete.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ObjDelete.gif
+END
+AlignTops.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignTops.gif
+END
+InnerClass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/InnerClass.gif
+END
+CreateAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CreateAction.gif
+END
+Favorites.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Favorites.gif
+END
+NewPerspective.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NewPerspective.gif
+END
+NavigateUp.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NavigateUp.gif
+END
+PostIt99.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostIt99.gif
+END
+HushCritic.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/HushCritic.gif
+END
+Actor.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Actor.gif
+END
+ProcedureExpression.gif
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ProcedureExpression.gif
+END
+StimulusCreate.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StimulusCreate.gif
+END
+Extends.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Extends.gif
+END
+Generalization.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Generalization.gif
+END
+Signal.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Signal.gif
+END
+Importsources.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Importsources.gif
+END
+StimulusCall.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StimulusCall.gif
+END
+FixItNext.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/FixItNext.gif
+END
+Include.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Include.gif
+END
+ElementImport.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ElementImport.gif
+END
+Node.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Node.gif
+END
+InheritanceInverse.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/InheritanceInverse.gif
+END
+ComponentInstance.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ComponentInstance.gif
+END
+DestroyAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DestroyAction.gif
+END
+Extend.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Extend.gif
+END
+Line.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Line.gif
+END
+OpenProject.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/OpenProject.gif
+END
+UseCase.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/UseCase.gif
+END
+Redo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Redo.gif
+END
+Synchronous.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Synchronous.gif
+END
+Package.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Package.gif
+END
+RedDelete.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/RedDelete.gif
+END
+Decision.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Decision.gif
+END
+Link.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Link.gif
+END
+AddMessage.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AddMessage.gif
+END
+NewReception.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NewReception.gif
+END
+PostIt100.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostIt100.gif
+END
+EnumerationLiteral.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/EnumerationLiteral.gif
+END
+Note.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Note.gif
+END
+ActionSequence.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ActionSequence.gif
+END
+ParallelTransition.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ParallelTransition.gif
+END
+Wiz.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Wiz.gif
+END
+CompositeAggregation.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CompositeAggregation.gif
+END
+DataType.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DataType.gif
+END
+CallState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CallState.gif
+END
+ActionState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ActionState.gif
+END
+Interaction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Interaction.gif
+END
+NavigateBack.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NavigateBack.gif
+END
+SubmachineState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SubmachineState.gif
+END
+Parameter.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Parameter.gif
+END
+TagDefinition.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/TagDefinition.gif
+END
+Inheritance.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Inheritance.gif
+END
+PostItD25.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItD25.gif
+END
+Exception.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Exception.gif
+END
+Join.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Join.gif
+END
+BooleanExpression.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/BooleanExpression.gif
+END
+Expression.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Expression.gif
+END
+NewExtensionPoint.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NewExtensionPoint.gif
+END
+Model.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Model.gif
+END
+NudgeRight.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NudgeRight.gif
+END
+NavigateUpPrevious.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NavigateUpPrevious.gif
+END
+PostIt0.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostIt0.gif
+END
+AssociationEnd.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AssociationEnd.gif
+END
+Usage.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Usage.gif
+END
+Instance.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Instance.gif
+END
+Rectangle.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Rectangle.gif
+END
+StateMachine.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StateMachine.gif
+END
+SequenceContract.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SequenceContract.gif
+END
+SubactivityState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SubactivityState.gif
+END
+PostItD100.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItD100.gif
+END
+Hush.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Hush.gif
+END
+AssociationInverse.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AssociationInverse.gif
+END
+SequenceExpand.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SequenceExpand.gif
+END
+NodeInstance.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NodeInstance.gif
+END
+ElementResidence.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ElementResidence.gif
+END
+SnoozeCritic.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SnoozeCritic.gif
+END
+NudgeLeft.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NudgeLeft.gif
+END
+CollaborationDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CollaborationDiagram.gif
+END
+Self_del.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Self_del.gif
+END
+Dependency.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Dependency.gif
+END
+RRect.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/RRect.gif
+END
+Find.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Find.gif
+END
+State.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/State.gif
+END
+Realization.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Realization.gif
+END
+Polygon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Polygon.gif
+END
+SendAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SendAction.gif
+END
+InternalTransition.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/InternalTransition.gif
+END
+AlignLefts.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AlignLefts.gif
+END
+Add.gif
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Add.gif
+END
+TaggedValue.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/TaggedValue.gif
+END
+Spline.gif
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Spline.gif
+END
+ShallowHistory.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ShallowHistory.gif
+END
+Asynchronous.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Asynchronous.gif
+END
+Subsystem.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Subsystem.gif
+END
+RetMessage.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/RetMessage.gif
+END
+StimulusDestroy.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StimulusDestroy.gif
+END
+StimulusSend.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StimulusSend.gif
+END
+Operation.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Operation.gif
+END
+Interface.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Interface.gif
+END
+ArgoIcon.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ArgoIcon.gif
+END
+Guard.gif
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Guard.gif
+END
+PostItD75.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItD75.gif
+END
+Comment.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Comment.gif
+END
+Forward.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Forward.gif
+END
+DeploymentDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/DeploymentDiagram.gif
+END
+Communication.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Communication.gif
+END
+PostItD0.gif
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/PostItD0.gif
+END
+ReturnAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ReturnAction.gif
+END
+StubState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StubState.gif
+END
+TimeExpression.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/TimeExpression.gif
+END
+NodeTwo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NodeTwo.gif
+END
+ArgoIcon32x32.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14479/trunk/src/argouml-app/src/org/argouml/Images/ArgoIcon32x32.png
+END
+FixItFinish.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/FixItFinish.gif
+END
+Constraint.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Constraint.gif
+END
+StimulusReturn.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/StimulusReturn.gif
+END
+Flat.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Flat.gif
+END
+ExtensionPoint.gif
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ExtensionPoint.gif
+END
+ChangeEvent.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ChangeEvent.gif
+END
+NudgeDown.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/NudgeDown.gif
+END
+FinalState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/FinalState.gif
+END
+ClassDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ClassDiagram.gif
+END
+ToFront.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ToFront.gif
+END
+SequenceDiagram.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/SequenceDiagram.gif
+END
+ResolveItem.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ResolveItem.gif
+END
+ObjectFlowState.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/ObjectFlowState.gif
+END
+AssociationClass.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/AssociationClass.gif
+END
+Attribute.gif
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Attribute.gif
+END
+Undo.gif
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Undo.gif
+END
+Project.gif
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/Project.gif
+END
+CallAction.gif
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/CallAction.gif
+END
+UmlNotation.gif
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/Images/UmlNotation.gif
+END

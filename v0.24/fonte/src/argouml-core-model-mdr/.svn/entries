@@ -1,0 +1,182 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-core-model-mdr
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-15T21:12:35.655518Z
+14955
+tfmorris
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+.project
+file
+
+
+
+
+2008-06-16T20:51:34.046875Z
+ca26806b5e6c6821b1130655feaf7001
+2008-02-10T07:01:08.205534Z
+14106
+linus
+has-props
+
+build2.bat
+file
+
+
+
+
+2008-06-16T20:51:34.046875Z
+d4600984d2def41e0a8c6c841b4e7a33
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+src
+dir
+
+.externalToolBuilders
+dir
+
+plugin.properties
+file
+
+
+
+
+2008-06-16T20:51:34.109375Z
+4c0a181f9a1ba3a147a96fef676ed733
+2008-03-31T21:10:27.455817Z
+14270
+b00__1
+has-props
+
+build2.sh
+file
+
+
+
+
+2008-06-16T20:51:34.125000Z
+9e893cf946f42b26352919d21a46e594
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+build.properties
+file
+
+
+
+
+2008-06-16T20:51:34.109375Z
+aeec29c7925db4dbed222a8a89282073
+2007-08-01T20:16:36.468259Z
+13202
+tfmorris
+has-props
+
+.checkclipse
+file
+
+
+
+
+2008-06-16T20:51:34.125000Z
+2f721aa911639ae220bfbb0ccd3d6c9b
+2006-05-26T09:36:15.000000Z
+10619
+linus
+has-props
+
+build.xml
+file
+
+
+
+
+2008-06-16T20:51:34.125000Z
+9371db0a93839c4e07a9cf57ec1681a6
+2008-06-14T18:41:58.050827Z
+14927
+linus
+has-props
+
+build
+dir
+
+tools
+dir
+
+META-INF
+dir
+
+.classpath
+file
+
+
+
+
+2008-06-16T20:51:34.125000Z
+17642ba5cf46b793845157ea724f8072
+2008-04-09T18:14:59.605750Z
+14309
+tfmorris
+has-props
+
+tests
+dir
+
+build.bat
+file
+
+
+
+
+2008-06-16T20:51:34.140625Z
+cb71d86ca3a8f760bf331c6dde8febb0
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+lib
+dir
+
+build.sh
+file
+
+
+
+
+2008-06-16T20:51:34.140625Z
+e9a36ce69ad2c69373d039c2d33dff07
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+.settings
+dir
+

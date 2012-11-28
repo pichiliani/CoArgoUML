@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui
+END
+AbstractFigNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14497/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/AbstractFigNode.java
+END
+FigNodeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14497/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/FigNodeInstance.java
+END
+PropPanelUMLDeploymentDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/PropPanelUMLDeploymentDiagram.java
+END
+SelectionComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/SelectionComponent.java
+END
+SelectionObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/SelectionObject.java
+END
+AbstractFigComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14498/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/AbstractFigComponent.java
+END
+FigComponentInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14498/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/FigComponentInstance.java
+END
+FigMNodeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/FigMNodeInstance.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/package.html
+END
+DeploymentDiagramPropPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/DeploymentDiagramPropPanelFactory.java
+END
+SelectionNodeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/SelectionNodeInstance.java
+END
+UMLDeploymentDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/UMLDeploymentDiagram.java
+END
+CubePortFigRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/CubePortFigRect.java
+END
+FigComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14498/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/FigComponent.java
+END
+FigMNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14497/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/FigMNode.java
+END
+InitDeploymentDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/InitDeploymentDiagram.java
+END
+SelectionNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/SelectionNode.java
+END
+DeploymentDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/DeploymentDiagramRenderer.java
+END
+FigObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/FigObject.java
+END
+SelectionComponentInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/SelectionComponentInstance.java
+END

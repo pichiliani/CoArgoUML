@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14845/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior
+END
+ActionNewSendAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewSendAction.java
+END
+ActionNewDestroyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewDestroyAction.java
+END
+PopupMenuNewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PopupMenuNewAction.java
+END
+PropPanelArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelArgument.java
+END
+ActionNewException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewException.java
+END
+UMLReceptionSpecificationDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLReceptionSpecificationDocument.java
+END
+PropPanelTerminateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelTerminateAction.java
+END
+PropPanelSendAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelSendAction.java
+END
+PropPanelReception.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelReception.java
+END
+PropPanelLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelLink.java
+END
+UMLReceptionSignalComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLReceptionSignalComboBoxModel.java
+END
+ActionAddInstanceClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionAddInstanceClassifier.java
+END
+ActionNewReturnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewReturnAction.java
+END
+PropPanelInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14845/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelInstance.java
+END
+ActionNewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewAction.java
+END
+ActionAddContextSignal.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionAddContextSignal.java
+END
+UMLInstanceReceiverStimulusListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLInstanceReceiverStimulusListModel.java
+END
+PropPanelNodeInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelNodeInstance.java
+END
+PropPanelReturnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelReturnAction.java
+END
+ActionNewTerminateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewTerminateAction.java
+END
+PropPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelAction.java
+END
+ActionNewReception.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewReception.java
+END
+UMLCreateActionClassifierListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLCreateActionClassifierListModel.java
+END
+ActionSetActionAsynchronous.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionSetActionAsynchronous.java
+END
+UMLInstanceClassifierListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLInstanceClassifierListModel.java
+END
+UMLInstanceLinkEndListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLInstanceLinkEndListModel.java
+END
+UMLStimulusReceiverListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLStimulusReceiverListModel.java
+END
+PropPanelLinkEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelLinkEnd.java
+END
+PropPanelStimulus.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelStimulus.java
+END
+UMLInstanceSenderStimulusListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLInstanceSenderStimulusListModel.java
+END
+PropPanelUninterpretedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelUninterpretedAction.java
+END
+PropPanelDestroyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelDestroyAction.java
+END
+UMLLinkConnectionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLLinkConnectionListModel.java
+END
+PropPanelComponentInstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelComponentInstance.java
+END
+ActionNewCreateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewCreateAction.java
+END
+UMLActionArgumentListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLActionArgumentListModel.java
+END
+UMLSignalContextListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLSignalContextListModel.java
+END
+ActionAddCreateActionInstantiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionAddCreateActionInstantiation.java
+END
+UMLActionAsynchronousCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLActionAsynchronousCheckBox.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/package.html
+END
+ActionNewActionSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java
+END
+PropPanelException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelException.java
+END
+UMLStimulusSenderListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLStimulusSenderListModel.java
+END
+ActionNewCallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewCallAction.java
+END
+PropPanelCreateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelCreateAction.java
+END
+ActionNewSignal.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewSignal.java
+END
+PropPanelActionSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionSequence.java
+END
+PropPanelObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelObject.java
+END
+ActionNewArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewArgument.java
+END
+PropPanelCallAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelCallAction.java
+END
+UMLReceptionSignalComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/UMLReceptionSignalComboBox.java
+END
+ActionRemoveArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionRemoveArgument.java
+END
+ActionNewUninterpretedAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewUninterpretedAction.java
+END
+PropPanelSignal.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelSignal.java
+END

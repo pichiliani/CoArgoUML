@@ -1,0 +1,44 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/src/org/argouml/pattern
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-02-18T18:37:28.303854Z
+14127
+tfmorris
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+cognitive
+dir
+
+package.html
+file
+
+
+
+
+2008-06-16T20:50:19.562500Z
+1b9e00a60e97a850f586ff24aedcda3b
+2001-09-04T05:38:06.000000Z
+785
+mkl
+has-props
+

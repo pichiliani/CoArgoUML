@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/argouml/!svn/ver/14942/trunk/src/argouml-app/default.properties
+END
+ArgoUML.launch
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/argouml/!svn/ver/14948/trunk/src/argouml-app/ArgoUML.launch
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argouml/!svn/ver/14543/trunk/src/argouml-app/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/.project
+END
+ArgoUML DEBUG.launch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14948/trunk/src/argouml-app/ArgoUML%20DEBUG.launch
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argouml/!svn/ver/14543/trunk/src/argouml-app/build.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argouml/!svn/ver/14927/trunk/src/argouml-app/build.xml
+END

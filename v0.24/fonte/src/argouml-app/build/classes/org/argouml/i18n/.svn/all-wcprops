@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14835/trunk/src/argouml-app/src/org/argouml/i18n
+END
+message.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/message.properties
+END
+checkbox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/checkbox.properties
+END
+statusmsg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14835/trunk/src/argouml-app/src/org/argouml/i18n/statusmsg.properties
+END
+misc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/misc.properties
+END
+UMLResourceBundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/UMLResourceBundle.properties
+END
+dialog.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14825/trunk/src/argouml-app/src/org/argouml/i18n/dialog.properties
+END
+critics.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/critics.properties
+END
+filechooser.properties
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/filechooser.properties
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/package.html
+END
+parsing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14835/trunk/src/argouml-app/src/org/argouml/i18n/parsing.properties
+END
+menu.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/menu.properties
+END
+mnemonic.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/mnemonic.properties
+END
+tab.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/tab.properties
+END
+combobox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/combobox.properties
+END
+checklist.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/checklist.properties
+END
+button.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14825/trunk/src/argouml-app/src/org/argouml/i18n/button.properties
+END
+optionpane.properties
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/optionpane.properties
+END
+action.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14825/trunk/src/argouml-app/src/org/argouml/i18n/action.properties
+END
+Translator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/i18n/Translator.java
+END
+label.properties
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14825/trunk/src/argouml-app/src/org/argouml/i18n/label.properties
+END
+aboutbox.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14465/trunk/src/argouml-app/src/org/argouml/i18n/aboutbox.properties
+END

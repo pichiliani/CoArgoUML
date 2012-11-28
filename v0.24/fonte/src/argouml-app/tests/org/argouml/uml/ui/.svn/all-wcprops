@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui
+END
+AbstractTestActionAddDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/AbstractTestActionAddDiagram.java
+END
+TestActionActivityGraphDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestActionActivityGraphDiagram.java
+END
+TestActionStateDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestActionStateDiagram.java
+END
+TestActionDeploymentDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestActionDeploymentDiagram.java
+END
+TestActionUseCaseDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestActionUseCaseDiagram.java
+END
+AbstractUMLModelElementListModel2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/AbstractUMLModelElementListModel2Test.java
+END
+TestActionCollaborationDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestActionCollaborationDiagram.java
+END
+TestUMLTagDefinitionComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestUMLTagDefinitionComboBoxModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/package.html
+END
+TestSourcePathController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestSourcePathController.java
+END
+GUITestActionSaveGraphics.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/GUITestActionSaveGraphics.java
+END
+TestTabStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestTabStyle.java
+END
+TestActionClassDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestActionClassDiagram.java
+END
+TestTabs.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/TestTabs.java
+END
+MockUMLUserInterfaceContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/MockUMLUserInterfaceContainer.java
+END
+GUITestActionOpenProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/uml/ui/GUITestActionOpenProject.java
+END

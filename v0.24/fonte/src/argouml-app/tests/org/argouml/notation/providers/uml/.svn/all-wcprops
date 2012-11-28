@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml
+END
+TestClassifierRoleNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestClassifierRoleNotationUml.java
+END
+TestAttributeAndOperationNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14839/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestAttributeAndOperationNotationUml.java
+END
+TestTransitionNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestTransitionNotationUml.java
+END
+TestCallStateNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java
+END
+TestActionStateNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestActionStateNotationUml.java
+END
+TestStateBodyNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestStateBodyNotationUml.java
+END
+TestEnumerationLiteralNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestEnumerationLiteralNotationUml.java
+END
+TestMessageNotationUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14863/trunk/src/argouml-app/tests/org/argouml/notation/providers/uml/TestMessageNotationUml.java
+END

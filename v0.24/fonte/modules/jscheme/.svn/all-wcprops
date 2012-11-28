@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/argouml/!svn/ver/14757/trunk/modules/jscheme
+END
+local-ant-clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/argouml/!svn/ver/14757/trunk/modules/jscheme/local-ant-clean.bat
+END
+module.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argouml/!svn/ver/2662/trunk/modules/jscheme/module.properties
+END
+local-ant-install.bat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/argouml/!svn/ver/14757/trunk/modules/jscheme/local-ant-install.bat
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/argouml/!svn/ver/14757/trunk/modules/jscheme/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argouml/!svn/ver/14757/trunk/modules/jscheme/build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/argouml/!svn/ver/7722/trunk/modules/jscheme/build.xml
+END

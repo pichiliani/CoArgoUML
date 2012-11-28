@@ -1,0 +1,33 @@
+K 14
+subclipse:tags
+V 762
+11719,VERSION_0_23_5,/releases/VERSION_0_23_5,tag
+11816,VERSION_0_24_ALPHA_1,/releases/VERSION_0_24_ALPHA_1,tag
+11870,VERSION_0_24_ALPHA_2,/releases/VERSION_0_24_ALPHA_2,tag
+11904,VERSION_0_24_ALPHA_3,/releases/VERSION_0_24_ALPHA_3,tag
+11940,VERSION_0_24_BETA_1,/releases/VERSION_0_24_BETA_1,tag
+11981,VERSION_0_24_BETA_2,/releases/VERSION_0_24_BETA_2,tag
+12012,VERSION_0_24_BETA_3,/releases/VERSION_0_24_BETA_3,tag
+12042,VERSION_0_24,/releases/VERSION_0_24,tag
+12185,VERSION_0_25_1,/releases/VERSION_0_25_1,tag
+12368,VERSION_0_25_2,/releases/VERSION_0_25_2,tag
+12648,VERSION_0_25_3,/releases/VERSION_0_25_3,tag
+13933,VERSION_0_25_4,/releases/VERSION_0_25_4,tag
+14705,VERSION_0_25_5,/releases/VERSION_0_25_5,tag
+14939,VERSION_0_25_6,/releases/VERSION_0_25_6,tag
+
+K 10
+svn:ignore
+V 109
+ArgoUML-*.tar.gz
+ArgoUML-*.zip
+ArgoUML-*.tgz
+argouml.log
+.classpath.full
+bin
+DIST
+.fbwarnings
+.fbprefs
+build
+
+END

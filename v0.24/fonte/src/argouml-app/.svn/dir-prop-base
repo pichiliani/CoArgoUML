@@ -1,0 +1,19 @@
+K 14
+subclipse:tags
+V 290
+14630,VERSION_0_25_5_test,/releases/VERSION_0_25_5_test/src/argouml-app,tag
+14694,VERSION_0_25_5,/releases/VERSION_0_25_5/src/argouml-app,tag
+14875,argouml-app,/branches/gsoc2008/work_argoeclipse1_hudsonb/argouml-app,branch
+14928,VERSION_0_25_6,/releases/VERSION_0_25_6/src/argouml-app,tag
+
+K 10
+svn:ignore
+V 110
+build
+build-eclipse
+build-eclipse-tests
+Alittlebitofeverything2.zargo
+test.xmi
+testSaveProfileModel.xmi
+
+END

@@ -1,0 +1,38 @@
+K 14
+subclipse:tags
+V 1590
+11205,work_dependency_cycles_tfmorris,/branches/work_dependency_cycles_tfmorris/tests,branch
+11241,work_argoeclipse_tfmorris,/branches/work_argoeclipse_tfmorris/tests,branch
+511,VERSION_0_8_1,/releases/VERSION_0_8_1/tests,tag
+1844,VERSION_0_10_1,/releases/VERSION_0_10_1/tests,tag
+2628,VERSION_0_12,/releases/VERSION_0_12/tests,tag
+4623,VERSION_0_14_1,/releases/VERSION_0_14_1/tests,tag
+6657,VERSION_0_16_1,/releases/VERSION_0_16_1/tests,tag
+8055,VERSION_0_18_1,/releases/VERSION_0_18_1/tests,tag
+9699,VERSION_0_20,/releases/VERSION_0_20/tests,tag
+10969,VERSION_0_22,/releases/VERSION_0_22/tests,tag
+11246,Root_work_argoeclipse_tfmorris,/tags/Root_work_argoeclipse_tfmorris/tests,tag
+11247,Root_work_dependency_cycles_tfmorris,/tags/Root_work_dependency_cycles_tfmorris/tests,tag
+11709,VERSION_0_23_5,/releases/VERSION_0_23_5/tests,tag
+11806,VERSION_0_24_ALPHA_1,/releases/VERSION_0_24_ALPHA_1/tests,tag
+11860,VERSION_0_24_ALPHA_2,/releases/VERSION_0_24_ALPHA_2/tests,tag
+11894,VERSION_0_24_ALPHA_3,/releases/VERSION_0_24_ALPHA_3/tests,tag
+11930,VERSION_0_24_BETA_1,/releases/VERSION_0_24_BETA_1/tests,tag
+11971,VERSION_0_24_BETA_2,/releases/VERSION_0_24_BETA_2/tests,tag
+12001,VERSION_0_24_BETA_3,/releases/VERSION_0_24_BETA_3/tests,tag
+12022,VERSION_0_24,/releases/VERSION_0_24/tests,tag
+12032,VERSION_0_24,/releases/VERSION_0_24/tests,tag
+12175,VERSION_0_25_1,/releases/VERSION_0_25_1/tests,tag
+12359,VERSION_0_25_2,/releases/VERSION_0_25_2/tests,tag
+12636,VERSION_0_25_3,/releases/VERSION_0_25_3/tests,tag
+13923,VERSION_0_25_4,/releases/VERSION_0_25_4/tests,tag
+
+K 10
+svn:ignore
+V 54
+
+build-eclipse
+Alittlebitofeverything2.zargo
+test.xmi
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14800/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14
+END
+default-java.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14614/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/default-java.xmi
+END
+default-uml14.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14784/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/default-uml14.xmi
+END
+andromda-profile-31.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/argouml/!svn/ver/14595/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi
+END
+default-uml14-uml20-subset.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14595/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/default-uml14-uml20-subset.xmi
+END
+metaprofile.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14800/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/metaprofile.xmi
+END
+default-uml14-uml20-deprecated.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14595/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/default-uml14-uml20-deprecated.xmi
+END
+andromda-profile-32-noextensions.xmi
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14595/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14595/trunk/src/argouml-app/src/org/argouml/profile/profiles/uml14/README.txt
+END

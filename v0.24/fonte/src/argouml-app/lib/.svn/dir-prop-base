@@ -1,0 +1,37 @@
+K 14
+subclipse:tags
+V 1542
+11205,work_dependency_cycles_tfmorris,/branches/work_dependency_cycles_tfmorris/lib,branch
+11241,work_argoeclipse_tfmorris,/branches/work_argoeclipse_tfmorris/lib,branch
+511,VERSION_0_8_1,/releases/VERSION_0_8_1/lib,tag
+1844,VERSION_0_10_1,/releases/VERSION_0_10_1/lib,tag
+2628,VERSION_0_12,/releases/VERSION_0_12/lib,tag
+4623,VERSION_0_14_1,/releases/VERSION_0_14_1/lib,tag
+6657,VERSION_0_16_1,/releases/VERSION_0_16_1/lib,tag
+8055,VERSION_0_18_1,/releases/VERSION_0_18_1/lib,tag
+9699,VERSION_0_20,/releases/VERSION_0_20/lib,tag
+10969,VERSION_0_22,/releases/VERSION_0_22/lib,tag
+11246,Root_work_argoeclipse_tfmorris,/tags/Root_work_argoeclipse_tfmorris/lib,tag
+11247,Root_work_dependency_cycles_tfmorris,/tags/Root_work_dependency_cycles_tfmorris/lib,tag
+11709,VERSION_0_23_5,/releases/VERSION_0_23_5/lib,tag
+11806,VERSION_0_24_ALPHA_1,/releases/VERSION_0_24_ALPHA_1/lib,tag
+11860,VERSION_0_24_ALPHA_2,/releases/VERSION_0_24_ALPHA_2/lib,tag
+11894,VERSION_0_24_ALPHA_3,/releases/VERSION_0_24_ALPHA_3/lib,tag
+11930,VERSION_0_24_BETA_1,/releases/VERSION_0_24_BETA_1/lib,tag
+11971,VERSION_0_24_BETA_2,/releases/VERSION_0_24_BETA_2/lib,tag
+12001,VERSION_0_24_BETA_3,/releases/VERSION_0_24_BETA_3/lib,tag
+12022,VERSION_0_24,/releases/VERSION_0_24/lib,tag
+12175,VERSION_0_25_1,/releases/VERSION_0_25_1/lib,tag
+12636,VERSION_0_25_3,/releases/VERSION_0_25_3/lib,tag
+13914,VERSION_0_25_4,/releases/VERSION_0_25_4/lib,tag
+13919,VERSION_0_25_4,/releases/VERSION_0_25_4/lib,tag
+13923,VERSION_0_25_4,/releases/VERSION_0_25_4/lib,tag
+
+K 10
+svn:ignore
+V 43
+*-src-*.jar
+*-src.jar
+*-src-*.zip
+*-src.zip
+END

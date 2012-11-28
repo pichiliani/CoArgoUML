@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/targetmanager
+END
+TargetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/targetmanager/TargetManager.java
+END
+TargetEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/targetmanager/TargetEvent.java
+END
+TargettableModelView.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/targetmanager/TargettableModelView.java
+END
+TargetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/targetmanager/TargetListener.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/targetmanager/package.html
+END

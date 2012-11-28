@@ -1,0 +1,54 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-core-model/tests/org/argouml/model
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-05-22T20:54:39.401942Z
+14787
+tfmorris
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+InitializeModel.java
+file
+
+
+
+
+2008-06-16T20:51:16.406250Z
+a37c4a56afb30d9bfa0cc298cb4a9950
+2008-05-01T01:46:03.822976Z
+14552
+tfmorris
+has-props
+
+TestXmi.java
+file
+
+
+
+
+2008-06-16T20:51:16.406250Z
+9ac7b28c3b9ac5b990fea1370f2c4db7
+2008-05-22T20:54:39.401942Z
+14787
+tfmorris
+has-props
+

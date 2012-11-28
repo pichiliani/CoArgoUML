@@ -1,0 +1,156 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/src/org/argouml
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-16T16:36:10.131706Z
+14960
+mvw
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+i18n
+dir
+
+kernel
+dir
+
+overview-api.html
+file
+
+
+
+
+2008-06-16T20:50:20.843750Z
+de467ceefdaf6ace842a0b2a2f88091d
+2004-03-01T07:12:49.000000Z
+5771
+linus
+has-props
+
+gefext
+dir
+
+language
+dir
+
+persistence
+dir
+
+taskmgmt
+dir
+
+cognitive
+dir
+
+resource
+dir
+
+notation
+dir
+
+uml
+dir
+
+package.html
+file
+
+
+
+
+2008-06-16T20:50:20.843750Z
+95d322c209796df92047a99e16193ae7
+2007-07-03T20:52:22.430621Z
+12977
+mvw
+has-props
+
+overview-argo.html
+file
+
+
+
+
+2008-06-16T20:50:20.843750Z
+f34cabd89fdbb8618b6c82d5acb9d8b9
+2001-09-27T15:47:03.000000Z
+835
+thierrylach
+has-props
+
+profile
+dir
+
+application
+dir
+
+doc-files
+dir
+
+Images
+dir
+
+argo.ini
+file
+
+
+
+
+2008-06-16T20:50:20.843750Z
+fc55ba0e0153e482453c88d72dd0c015
+2005-10-06T00:20:18.000000Z
+8957
+bobtarling
+has-props
+
+configuration
+dir
+
+registry.xml
+file
+
+
+
+
+2008-06-16T20:50:20.859375Z
+e9024f2082099e4f31f2e5dc91a0c4c7
+2004-07-26T20:01:46.000000Z
+6324
+kataka
+has-props
+
+swingext
+dir
+
+moduleloader
+dir
+
+ocl
+dir
+
+ui
+dir
+
+pattern
+dir
+
+util
+dir
+

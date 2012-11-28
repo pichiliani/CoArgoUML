@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/argouml/!svn/ver/14956/trunk/src/argouml-app/tests
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.classpath
+END
+ArgoUML profile tests with MDR.launch
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/ArgoUML%20profile%20tests%20with%20MDR.launch
+END
+ArgoUML kernel tests with MDR.launch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/ArgoUML%20kernel%20tests%20with%20MDR.launch
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.project
+END
+Model all tests.launch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/Model%20all%20tests.launch
+END
+ArgoUML persistence tests with MDR.launch
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/ArgoUML%20persistence%20tests%20with%20MDR.launch
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/log4j.properties
+END
+.checkclipse
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/.checkclipse
+END

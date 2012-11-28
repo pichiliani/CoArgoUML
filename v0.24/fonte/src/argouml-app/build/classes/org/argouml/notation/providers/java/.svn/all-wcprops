@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14796/trunk/src/argouml-app/src/org/argouml/notation/providers/java
+END
+AttributeNotationJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/java/AttributeNotationJava.java
+END
+NotationUtilityJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/java/NotationUtilityJava.java
+END
+InitNotationJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/java/InitNotationJava.java
+END
+AssociationEndNameNotationJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14796/trunk/src/argouml-app/src/org/argouml/notation/providers/java/AssociationEndNameNotationJava.java
+END
+ModelElementNameNotationJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/java/ModelElementNameNotationJava.java
+END
+AssociationNameNotationJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/java/AssociationNameNotationJava.java
+END
+OperationNotationJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/notation/providers/java/OperationNotationJava.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14492/trunk/src/argouml-app/src/org/argouml/notation/providers/java/package.html
+END

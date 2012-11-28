@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/argouml/!svn/ver/14848/trunk/src/argouml-app/src/org/argouml/ui/explorer
+END
+ExplorerTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14593/trunk/src/argouml-app/src/org/argouml/ui/explorer/ExplorerTreeModel.java
+END
+DnDExplorerTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14760/trunk/src/argouml-app/src/org/argouml/ui/explorer/DnDExplorerTree.java
+END
+TreeModelUMLEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/TreeModelUMLEventListener.java
+END
+ExplorerPerspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/ExplorerPerspective.java
+END
+NameOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/NameOrder.java
+END
+PerspectiveConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/PerspectiveConfigurator.java
+END
+ExplorerEventAdaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14746/trunk/src/argouml-app/src/org/argouml/ui/explorer/ExplorerEventAdaptor.java
+END
+ActionPerspectiveConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/ActionPerspectiveConfig.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/package.html
+END
+WeakExplorerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/WeakExplorerNode.java
+END
+ActionExportProfileXMI.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14661/trunk/src/argouml-app/src/org/argouml/ui/explorer/ActionExportProfileXMI.java
+END
+ExplorerTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/ExplorerTree.java
+END
+PerspectiveComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/PerspectiveComboBox.java
+END
+ExplorerPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14848/trunk/src/argouml-app/src/org/argouml/ui/explorer/ExplorerPopup.java
+END
+PerspectiveManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/PerspectiveManager.java
+END
+ExplorerTreeNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14745/trunk/src/argouml-app/src/org/argouml/ui/explorer/ExplorerTreeNode.java
+END
+PerspectiveManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/PerspectiveManagerListener.java
+END
+TypeThenNameOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/ui/explorer/TypeThenNameOrder.java
+END

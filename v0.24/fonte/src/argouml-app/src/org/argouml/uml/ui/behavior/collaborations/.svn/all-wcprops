@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations
+END
+UMLAssociationRoleAssociationEndRoleListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLAssociationRoleAssociationEndRoleListModel.java
+END
+PropPanelInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/PropPanelInteraction.java
+END
+UMLClassifierRoleAvailableFeaturesListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLClassifierRoleAvailableFeaturesListModel.java
+END
+UMLInteractionMessagesListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLInteractionMessagesListModel.java
+END
+PropPanelAssociationEndRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/PropPanelAssociationEndRole.java
+END
+ActionAddClassifierRoleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionAddClassifierRoleBase.java
+END
+UMLMessageActivatorComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessageActivatorComboBox.java
+END
+ActionSetRepresentedClassifierCollaboration.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionSetRepresentedClassifierCollaboration.java
+END
+PropPanelCollaboration.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/PropPanelCollaboration.java
+END
+UMLAssociationEndRoleBaseListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLAssociationEndRoleBaseListModel.java
+END
+UMLCollaborationConstrainingElementListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLCollaborationConstrainingElementListModel.java
+END
+UMLMessagePredecessorListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessagePredecessorListModel.java
+END
+PropPanelAssociationRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/PropPanelAssociationRole.java
+END
+UMLInteractionContextListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLInteractionContextListModel.java
+END
+UMLMessageInteractionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessageInteractionListModel.java
+END
+UMLCollaborationRepresentedClassifierComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLCollaborationRepresentedClassifierComboBoxModel.java
+END
+UMLClassifierRoleBaseListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLClassifierRoleBaseListModel.java
+END
+ActionNewActionForMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionNewActionForMessage.java
+END
+UMLCollaborationRepresentedOperationComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLCollaborationRepresentedOperationComboBoxModel.java
+END
+ActionSetAssociationRoleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionSetAssociationRoleBase.java
+END
+UMLMessageReceiverListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessageReceiverListModel.java
+END
+PropPanelMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/PropPanelMessage.java
+END
+ActionRemoveClassifierRoleBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionRemoveClassifierRoleBase.java
+END
+UMLMessageActionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessageActionListModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/package.html
+END
+UMLClassifierRoleAvailableContentsListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLClassifierRoleAvailableContentsListModel.java
+END
+UMLMessageSenderListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessageSenderListModel.java
+END
+UMLAssociationRoleBaseComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLAssociationRoleBaseComboBoxModel.java
+END
+UMLCollaborationInteractionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLCollaborationInteractionListModel.java
+END
+ActionSetRepresentedOperationCollaboration.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionSetRepresentedOperationCollaboration.java
+END
+PropPanelClassifierRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/PropPanelClassifierRole.java
+END
+ActionSetClassifierRoleMultiplicity.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionSetClassifierRoleMultiplicity.java
+END
+UMLMessageActivatorComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLMessageActivatorComboBoxModel.java
+END
+ActionAddMessagePredecessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/ActionAddMessagePredecessor.java
+END
+UMLAssociationRoleMessageListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/collaborations/UMLAssociationRoleMessageListModel.java
+END

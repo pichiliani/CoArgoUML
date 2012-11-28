@@ -1,0 +1,56 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-05-31T12:33:12.884254Z
+14847
+bobtarling
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+activity_graphs
+dir
+
+common_behavior
+dir
+
+state_machines
+dir
+
+use_cases
+dir
+
+collaborations
+dir
+
+package.html
+file
+
+
+
+
+2008-06-16T20:49:50.328125Z
+1b9e00a60e97a850f586ff24aedcda3b
+2001-09-04T05:38:06.000000Z
+785
+mkl
+has-props
+

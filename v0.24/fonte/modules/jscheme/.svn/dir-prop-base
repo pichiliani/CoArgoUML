@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 45
+build
+local-*.sh
+local-*.bat
+build.properties
+END

@@ -1,0 +1,115 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/modules/jscheme
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+local-ant-clean.bat
+file
+
+
+
+
+2008-06-16T20:51:38.296875Z
+014450f9ffd0f17b2f539be2459ea56f
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+module.properties
+file
+
+
+
+
+2008-06-16T20:51:38.296875Z
+c1a07cac85f8aca8b94bc42c9e50d7a0
+2002-10-10T17:37:06.000000Z
+2662
+thierrylach
+has-props
+
+local-ant-install.bat
+file
+
+
+
+
+2008-06-16T20:51:38.296875Z
+fd956a0a4949763d12b9664496e18c0e
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+build.bat
+file
+
+
+
+
+2008-06-16T20:51:38.312500Z
+bd93435b0679725a600eb8568f65b8de
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+lib
+dir
+
+scripts
+dir
+
+src
+dir
+
+build.sh
+file
+
+
+
+
+2008-06-16T20:51:38.312500Z
+49fc2b0bd455a7f2508684356ae13911
+2008-05-17T05:40:36.171207Z
+14757
+dthompson
+has-props
+
+build.xml
+file
+
+
+
+
+2008-06-16T20:51:38.312500Z
+3f13329d7f088e27d2af3e876468ea6c
+2005-02-10T23:56:57.000000Z
+7722
+linus
+has-props
+

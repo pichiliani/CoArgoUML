@@ -1,0 +1,56 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-16T20:29:22.884104Z
+14962
+tfmorris
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+tools
+dir
+
+www
+dir
+
+src
+dir
+
+modules
+dir
+
+documentation
+dir
+
+build.xml
+file
+
+
+
+
+2008-06-16T20:51:59.343750Z
+6a422224dda59ea343e2761ff08c3fa0
+2008-06-09T19:18:49.431005Z
+14893
+dthompson
+has-props
+

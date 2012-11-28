@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/argouml/!svn/ver/14800/trunk/src/argouml-app/src/org/argouml/profile/internal
+END
+ModelUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/internal/ModelUtils.java
+END
+ProfileJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/internal/ProfileJava.java
+END
+ProfileMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14800/trunk/src/argouml-app/src/org/argouml/profile/internal/ProfileMeta.java
+END
+JavaFormatingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/internal/JavaFormatingStrategy.java
+END
+ProfileManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14800/trunk/src/argouml-app/src/org/argouml/profile/internal/ProfileManagerImpl.java
+END
+ProfileUML.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/profile/internal/ProfileUML.java
+END

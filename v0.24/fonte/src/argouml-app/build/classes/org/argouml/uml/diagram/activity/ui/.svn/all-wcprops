@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui
+END
+FigPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14469/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/FigPool.java
+END
+UMLActivityDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14574/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/UMLActivityDiagram.java
+END
+FigPartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14574/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/FigPartition.java
+END
+FigCallState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/FigCallState.java
+END
+FigActionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/FigActionState.java
+END
+InitActivityDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/InitActivityDiagram.java
+END
+ActivityDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/ActivityDiagramRenderer.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/package.html
+END
+PropPanelUMLActivityDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/PropPanelUMLActivityDiagram.java
+END
+SelectionCallState.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/SelectionCallState.java
+END
+ModePlacePartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14574/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/ModePlacePartition.java
+END
+SelectionActionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/SelectionActionState.java
+END
+FigObjectFlowState.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14952/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/FigObjectFlowState.java
+END
+ActivityDiagramPropPanelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/ActivityDiagramPropPanelFactory.java
+END
+ActionCreatePartition.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14574/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/ActionCreatePartition.java
+END
+FigSubactivityState.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/activity/ui/FigSubactivityState.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/tests/org/argouml/cognitive
+END
+TestItemUID.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/tests/org/argouml/cognitive/TestItemUID.java
+END
+TestToDoItemList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14472/trunk/src/argouml-app/tests/org/argouml/cognitive/TestToDoItemList.java
+END
+TestStandardCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/TestStandardCM.java
+END
+TestResolvedCritic.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/tests/org/argouml/cognitive/TestResolvedCritic.java
+END
+TestGoal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/TestGoal.java
+END
+TestGoalModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/TestGoalModel.java
+END
+TestToDoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/TestToDoItem.java
+END
+TestDecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/TestDecision.java
+END
+TestCritic.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/TestCritic.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/cognitive/package.html
+END

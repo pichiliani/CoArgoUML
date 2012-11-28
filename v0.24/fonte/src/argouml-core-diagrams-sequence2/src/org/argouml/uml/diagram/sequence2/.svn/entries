@@ -1,0 +1,73 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-core-diagrams-sequence2/src/org/argouml/uml/diagram/sequence2
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-06-15T22:20:58.801626Z
+14959
+bobtarling
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+SequenceDiagramGraphModel.java
+file
+
+
+
+
+2008-06-16T20:50:28.500000Z
+b4b3cf9096a3ffb6dcf491670970a876
+2008-04-08T14:29:51.294639Z
+14304
+penyaskito
+has-props
+
+module
+dir
+
+ActionSequenceDiagram.java
+file
+
+
+
+
+2008-06-16T20:50:28.500000Z
+5a0d679b4529aa4e41060a8e81ae9b2a
+2008-04-08T14:29:51.294639Z
+14304
+penyaskito
+has-props
+
+ActionSetAddMessageMode.java
+file
+
+
+
+
+2008-06-16T20:50:28.515625Z
+67de9f8a00147c8e2d0cc9378df91afa
+2008-04-08T14:29:51.294639Z
+14304
+penyaskito
+has-props
+
+ui
+dir
+

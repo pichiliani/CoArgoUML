@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/argouml/!svn/ver/14956/trunk/src/argouml-app/tests/org/argouml/model
+END
+TestModelEventPump.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModelEventPump.java
+END
+TestModelFacade2.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModelFacade2.java
+END
+TestUmlUseCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlUseCase.java
+END
+TestCommonBehaviorHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestCommonBehaviorHelper.java
+END
+TestExtensionMechanismsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestExtensionMechanismsFactory.java
+END
+InitializeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/InitializeModel.java
+END
+TestUmlFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlFactory.java
+END
+TestModelManagementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModelManagementFactory.java
+END
+TestDataTypesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestDataTypesFactory.java
+END
+TestCoreHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestCoreHelper.java
+END
+TestStateMachinesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestStateMachinesHelper.java
+END
+GenericUmlObjectTestFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/GenericUmlObjectTestFixture.java
+END
+TestActivityGraphsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestActivityGraphsFactory.java
+END
+TestUmlGeneralization.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlGeneralization.java
+END
+TestModelManagementHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModelManagementHelper.java
+END
+TestUml.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUml.java
+END
+TestModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModel.java
+END
+TestCommonBehaviorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestCommonBehaviorFactory.java
+END
+TestActivityGraphsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestActivityGraphsHelper.java
+END
+TestUseCasesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14678/trunk/src/argouml-app/tests/org/argouml/model/TestUseCasesFactory.java
+END
+TestCollaborationsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestCollaborationsFactory.java
+END
+TestActivityGraphStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestActivityGraphStateMachine.java
+END
+TestUmlExtend.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlExtend.java
+END
+TestModelFacade3.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModelFacade3.java
+END
+TestCopyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestCopyHelper.java
+END
+TestUmlFactoryBuildNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlFactoryBuildNode.java
+END
+TestUseCasesHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUseCasesHelper.java
+END
+TestCollaborationsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestCollaborationsHelper.java
+END
+CheckUMLModelHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/CheckUMLModelHelper.java
+END
+TestUmlModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlModel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/package.html
+END
+TestCoreFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14956/trunk/src/argouml-app/tests/org/argouml/model/TestCoreFactory.java
+END
+TestStateMachinesFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestStateMachinesFactory.java
+END
+MockModelImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14673/trunk/src/argouml-app/tests/org/argouml/model/MockModelImplementation.java
+END
+TestModel2.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestModel2.java
+END
+TestExtensionMechanismsHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/model/TestExtensionMechanismsHelper.java
+END
+TestAgainstUmlModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestAgainstUmlModel.java
+END
+TestUmlActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlActor.java
+END
+TestUmlModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestUmlModelElement.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14954/trunk/src/argouml-app/tests/org/argouml/model/AllTests.java
+END
+TestAGHelperWithMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/model/TestAGHelperWithMock.java
+END

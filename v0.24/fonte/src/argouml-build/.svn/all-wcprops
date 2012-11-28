@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/argouml/!svn/ver/14927/trunk/src/argouml-build
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14611/trunk/src/argouml-build/default.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argouml/!svn/ver/14416/trunk/src/argouml-build/.project
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argouml/!svn/ver/14757/trunk/src/argouml-build/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/argouml/!svn/ver/14757/trunk/src/argouml-build/build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/argouml/!svn/ver/14927/trunk/src/argouml-build/build.xml
+END

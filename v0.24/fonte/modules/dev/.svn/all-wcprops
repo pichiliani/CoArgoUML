@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/argouml/!svn/ver/14930/trunk/modules/dev
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/argouml/!svn/ver/14646/trunk/modules/dev/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/argouml/!svn/ver/14646/trunk/modules/dev/.project
+END
+plugin.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/argouml/!svn/ver/14646/trunk/modules/dev/plugin.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/argouml/!svn/ver/14646/trunk/modules/dev/build.properties
+END
+ArgoUML dev.launch
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/argouml/!svn/ver/14550/trunk/modules/dev/ArgoUML%20dev.launch
+END

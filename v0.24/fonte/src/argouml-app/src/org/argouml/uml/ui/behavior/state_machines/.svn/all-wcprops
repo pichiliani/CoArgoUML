@@ -1,0 +1,473 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14847/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines
+END
+ActionNewFinalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewFinalState.java
+END
+UMLTransitionEffectListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionEffectListModel.java
+END
+UMLCompositeStateSubvertexListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLCompositeStateSubvertexListModel.java
+END
+ButtonActionNewGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java
+END
+PropPanelChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelChangeEvent.java
+END
+UMLTransitionStatemachineListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionStatemachineListModel.java
+END
+UMLStateDoActivityListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateDoActivityListModel.java
+END
+ActionSetCompositeStateConcurrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionSetCompositeStateConcurrent.java
+END
+PropPanelTimeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelTimeEvent.java
+END
+PropPanelGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelGuard.java
+END
+PropPanelCompositeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14687/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelCompositeState.java
+END
+AbstractPropPanelState.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/AbstractPropPanelState.java
+END
+ActionNewCallEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewCallEvent.java
+END
+UMLStateDeferrableEventListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateDeferrableEventListModel.java
+END
+UMLCompositeStateConcurrentCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLCompositeStateConcurrentCheckBox.java
+END
+UMLStateEntryListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateEntryListModel.java
+END
+ActionNewSynchState.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewSynchState.java
+END
+PropPanelStubState.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelStubState.java
+END
+ActionNewChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewChangeEvent.java
+END
+PropPanelStateVertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14845/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelStateVertex.java
+END
+PropPanelSignalEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelSignalEvent.java
+END
+ActionNewTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewTransition.java
+END
+UMLStateMachineContextListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateMachineContextListModel.java
+END
+ActionNewPseudoState.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewPseudoState.java
+END
+UMLSignalEventSignalListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLSignalEventSignalListModel.java
+END
+UMLStateDeferrableEventList.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateDeferrableEventList.java
+END
+UMLTransitionTriggerListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionTriggerListModel.java
+END
+PropPanelSimpleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelSimpleState.java
+END
+UMLStateVertexContainerListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateVertexContainerListModel.java
+END
+UMLStateEntryList.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateEntryList.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/package.html
+END
+PropPanelPseudostate.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelPseudostate.java
+END
+PropPanelStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelStateMachine.java
+END
+ActionNewSignalEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewSignalEvent.java
+END
+UMLEventTransitionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLEventTransitionListModel.java
+END
+UMLTransitionTriggerList.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionTriggerList.java
+END
+ActionNewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewEvent.java
+END
+UMLSynchStateBoundDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLSynchStateBoundDocument.java
+END
+UMLTransitionTargetListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionTargetListModel.java
+END
+PropPanelCallEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelCallEvent.java
+END
+PropPanelSubmachineState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelSubmachineState.java
+END
+UMLStateMachineSubmachineStateListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateMachineSubmachineStateListModel.java
+END
+ActionNewSimpleState.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewSimpleState.java
+END
+UMLStateMachineContextComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateMachineContextComboBoxModel.java
+END
+PopupMenuNewEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PopupMenuNewEvent.java
+END
+UMLChangeExpressionModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLChangeExpressionModel.java
+END
+UMLStateExitListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateExitListModel.java
+END
+UMLStateInternalTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateInternalTransition.java
+END
+UMLTransitionSourceListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionSourceListModel.java
+END
+UMLGuardTransitionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLGuardTransitionListModel.java
+END
+ActionAddSignalsToSignalEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionAddSignalsToSignalEvent.java
+END
+PropPanelFinalState.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelFinalState.java
+END
+ActionNewCompositeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewCompositeState.java
+END
+UMLEventParameterListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLEventParameterListModel.java
+END
+UMLStateExitList.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateExitList.java
+END
+ActionSetContextStateMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionSetContextStateMachine.java
+END
+UMLStateVertexOutgoingListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateVertexOutgoingListModel.java
+END
+UMLTransitionStateListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionStateListModel.java
+END
+UMLSignalEventSignalList.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLSignalEventSignalList.java
+END
+ActionNewSubmachineState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewSubmachineState.java
+END
+UMLStateDoActivityList.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateDoActivityList.java
+END
+UMLStateVertexIncomingListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateVertexIncomingListModel.java
+END
+PropPanelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelEvent.java
+END
+PropPanelSynchState.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelSynchState.java
+END
+UMLStubStateComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStubStateComboBoxModel.java
+END
+UMLSubmachineStateComboBoxModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLSubmachineStateComboBoxModel.java
+END
+ActionNewTimeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewTimeEvent.java
+END
+UMLTransitionGuardListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionGuardListModel.java
+END
+ActionSetStubStateReferenceState.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionSetStubStateReferenceState.java
+END
+ActionNewGuard.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewGuard.java
+END
+UMLStateMachineTransitionListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateMachineTransitionListModel.java
+END
+PropPanelTransition.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14847/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/PropPanelTransition.java
+END
+UMLTransitionEffectList.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLTransitionEffectList.java
+END
+UMLStateMachineTopListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLStateMachineTopListModel.java
+END
+UMLCompositeStateSubvertexList.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/UMLCompositeStateSubvertexList.java
+END
+ActionNewStubState.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionNewStubState.java
+END
+ActionSetSubmachineStateSubmachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionSetSubmachineStateSubmachine.java
+END
+ActionAddEventAsDeferrableEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ActionAddEventAsDeferrableEvent.java
+END

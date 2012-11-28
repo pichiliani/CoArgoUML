@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/argouml/!svn/ver/14960/trunk/src/argouml-app/src/org/argouml/uml/diagram
+END
+ArgoDiagramImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/src/org/argouml/uml/diagram/ArgoDiagramImpl.java
+END
+PathContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/PathContainer.java
+END
+OperationsCompartmentContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/OperationsCompartmentContainer.java
+END
+AttributesCompartmentContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/AttributesCompartmentContainer.java
+END
+StereotypeContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/StereotypeContainer.java
+END
+GraphChangeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/GraphChangeAdapter.java
+END
+UmlDiagramRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14774/trunk/src/argouml-app/src/org/argouml/uml/diagram/UmlDiagramRenderer.java
+END
+ExtensionsCompartmentContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/ExtensionsCompartmentContainer.java
+END
+Relocatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/Relocatable.java
+END
+ArgoDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14536/trunk/src/argouml-app/src/org/argouml/uml/diagram/ArgoDiagram.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/package.html
+END
+ProjectMemberDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/ProjectMemberDiagram.java
+END
+DiagramAppearance.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/DiagramAppearance.java
+END
+DiagramUndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/DiagramUndoManager.java
+END
+UMLMutableGraphSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/UMLMutableGraphSupport.java
+END
+VisibilityContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/uml/diagram/VisibilityContainer.java
+END
+DiagramFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14582/trunk/src/argouml-app/src/org/argouml/uml/diagram/DiagramFactory.java
+END

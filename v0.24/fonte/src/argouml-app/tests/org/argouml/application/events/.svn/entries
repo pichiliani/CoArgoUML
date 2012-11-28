@@ -1,0 +1,41 @@
+8
+
+dir
+14962
+http://argouml.tigris.org/svn/argouml/trunk/src/argouml-app/tests/org/argouml/application/events
+http://argouml.tigris.org/svn/argouml
+
+
+
+2008-04-04T19:23:39.233001Z
+14283
+tfmorris
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+a161b567-7d1e-0410-9ef9-912c70fedb3f
+
+TestArgoEventPump.java
+file
+
+
+
+
+2008-06-16T20:48:41.562500Z
+36200ac7430bbbc0e441ccfdc45ad527
+2008-04-04T19:23:39.233001Z
+14283
+tfmorris
+has-props
+

@@ -1,0 +1,431 @@
+import java.net.*;
+import java.io.*;
+import java.util.*;
+import java.awt.*;
+
+public class EyeServer 
+{
+	public Vector clientVector;         // vector of currently connected clients
+	private int id_telepointer = 1;
+	private Vector telepointers = new Vector();
+	private ArrayList userList = new ArrayList(); // Lista contendo os usuários e senhas
+	
+	public void EyeServer(){
+		
+	}
+	
+	public void IniciaServico(int port) throws IOException {
+		// Abre o servidor na porta 123
+        ServerSocket ss = new  ServerSocket(port);
+        System.out.println("Eye Server listening on port " + port +".CTRL+C to finish.") ;
+
+		// Iniciando a lista de usuarios e senhas
+    	String []x = {"A" ,"A"};
+    	userList.add (x);
+
+    	String []y = {"B" ,"B"};
+		userList.add (y);
+
+		try
+		{ 
+			clientVector = new Vector(); 
+			EyeServerT c;
+			// A cada nova requisão uma nova Thread é criada
+			while (true)
+			{
+				c = new EyeServerT (ss.accept(),this);
+				c.start();
+				
+				// clientVector.addElement(c);
+			}
+			
+		}
+		catch (Exception ex)
+		{
+        		ex.printStackTrace();
+		}
+		
+	}
+
+	
+	public static void main (String args[] ) 
+	{
+
+		// Checagens dos parâmetros
+		if(args.length!=1)
+			System.out.println("Uso: EyeServer port");
+		
+		int port = 0;
+
+		try
+		{ 
+			port =	Integer.valueOf(args[0]).intValue();
+
+
+		}
+		catch (NumberFormatException ex)
+		{
+		   System.out.println("Invalid port number");  
+		}
+
+	
+		try
+		{ 
+			EyeServer s = new EyeServer();
+			s.IniciaServico(port);
+		}
+		catch (IOException ex)
+		{
+			   System.out.println("Servidor finalizado!" );
+		}
+		
+	}
+	
+	public void RemoveClient (EyeServerT singleThread) {
+        	clientVector.removeElement(singleThread);
+    }
+	
+	
+    public void BroadCastToAll (Object objrecebido, EyeServerT tEnviada, boolean skipItself) 	
+    {
+    	this.BroadCastToAll(objrecebido,tEnviada,skipItself,tEnviada.tipocon);
+    }
+    	
+    public void BroadCastToAll (Object objrecebido, EyeServerT tEnviada, boolean skipItself,String tipocon) 	{
+        ArrayList list = (ArrayList) objrecebido;
+
+        Object eventoMouse = list.get(0);
+        String nomeEvento = (String)list.get(1);
+        
+        EyeServerT aSingleThread = null;
+        
+        for (int i = 0; i < clientVector.size(); i++) {
+            aSingleThread = (EyeServerT) clientVector.elementAt(i);
+
+            
+            // System.out.println("T:" + aSingleThread.tipocon + " S: " + aSingleThread.nome_sessao);
+            
+            if(skipItself)
+            {
+            	if( (!aSingleThread.equals(tEnviada)) && 
+                	(aSingleThread.tipocon.equals(tipocon)) && 
+                	(aSingleThread.nome_sessao.equals(tEnviada.nome_sessao))  )
+            	{
+                
+            		// System.out.println("Evento enviado!");
+                	aSingleThread.BroadCastToClient(list);
+            	}
+            }
+            else
+            {
+                if( 	(aSingleThread.tipocon.equals(tipocon)) && 
+	                	(aSingleThread.nome_sessao.equals(tEnviada.nome_sessao))  )
+            	
+                		aSingleThread.BroadCastToClient(list);
+            	
+            }
+                
+        }
+	}
+
+    
+    public boolean ExisteSessao (String nomesessao) {
+        EyeServerT aSingleThread = null;
+        
+        for (int i = 0; i < clientVector.size(); i++) {
+            aSingleThread = (EyeServerT) clientVector.elementAt(i);
+
+            if( aSingleThread.nome_sessao.equals(nomesessao))
+            	return true;
+        }
+        return false;
+    }
+    
+    
+    
+        
+        
+    // retorna todas os nomes da sesões colaborativas atuais
+        
+
+    public String getPointerID()
+    {
+
+    	String x = "1";
+    	
+    	for (int i = 0; i < 4; i++) 
+    	{
+    		id_telepointer = i+1;
+    		if(!telepointers.contains(String.valueOf(id_telepointer)) )
+    		{
+    			x = String.valueOf(id_telepointer);
+    			
+    			telepointers.addElement(x); 
+    			
+    			return x;
+    		}
+    	}
+    	
+    	return x;
+    }
+
+    
+    public Color getColor(String id)
+    {
+    	
+    	// Aqui vou especificar as colores e os ID's dos telepointers
+    	Color fColor = Color.cyan;
+		if (id.equals("1")) 
+			fColor = Color.red; 
+		if (id.equals("2")) 
+			fColor = Color.blue;
+		if (id.equals("3")) 
+			fColor = Color.yellow;
+		if (id.equals("4")) 
+			fColor = Color.orange;
+		
+		return fColor;
+    }
+    
+    public void RemovePointer(String id)
+    {
+    		if(telepointers.contains(id) )
+    			telepointers.removeElement(id);
+    		
+    		return;
+    }
+
+    public boolean checkUser(String l,String s)
+    {
+        for (int i = 0; i < userList.size(); i++) 
+        {
+            String user[] = (String []) userList.get(i);
+            
+            if(user[0].equals(l) && user[1].equals(s))
+            	return true;
+        }
+        
+        return false;
+    }
+
+        
+    
+}
+
+class EyeServerT extends Thread 
+{
+	Socket client;
+    private ObjectInputStream is;
+    private ObjectOutputStream os;
+    
+    private InputStreamReader is1;
+    private OutputStreamWriter os1;
+    
+    private EyeServer servidor;
+    private String id_pointer;
+    public String tipocon; 
+    public String login;
+    public String senha;
+    public String nome_sessao = "";
+    public Object modelo_atual;
+    public ArrayList modelo_inicial = new ArrayList();
+    public ArrayList ids_inicial = new ArrayList();
+    
+    public Vector resources_locked = new Vector();
+	
+	// Construtor da classe
+	EyeServerT (Socket client,EyeServer s) throws SocketException 
+	{
+		// Preenche os campos e seta a priopridade desta Thread
+		this.client = client;
+		this.servidor = s;
+		setPriority( NORM_PRIORITY - 1);
+		this.tipocon = "";
+	}
+
+	public void run() 
+	{
+        try {
+            
+  	    // System.out.println("Antes do connect()!");	
+    
+            this.connect();
+            boolean clientTalking = true;
+            
+            
+            //a loop that reads from and writes to the socket
+            while (clientTalking) {
+                // get what client wants to say...
+        
+                // System.out.println("Servidor recebeu algum texto!");
+        
+                BufferedReader in = new BufferedReader(is1); 
+                
+                String text = in.readLine(); 
+                
+                if ( (in == null) || (text==null)) 
+                    clientTalking = false;
+                else
+                {
+                	System.out.println("Texto recebido:" + text);
+                    
+                	// O EyeServer vai receber somente dois tipos de mensagem:
+                    // A inicial: EYE. Formato: EYE,<login>,<senha>
+                    // A movimentação do olho: PROT_EYE. Formato: PROT_EYE,<login>,<pos_x>,<pos_y>
+                    
+                    // Eh preciso quebrar a mensagem de texto e transformá-la em um objeto
+                    // para o método trataProtocolo()
+                	
+                	Object clientObject = parseEye(text);
+                
+                	if(!this.trataProtocolo(clientObject))
+                    {
+    	                // if client dissappeared.. 
+    	                if (clientObject == null) 
+    	                    clientTalking = false;
+    	           	} 
+                }
+                
+                
+            }
+            
+        } catch (Exception e) {
+        	// System.out.println("Conexão fechada pelo cliente.");
+        	e.printStackTrace();
+        }
+        this.disconnect();
+	}
+	
+	private Object parseEye(String text)
+	{
+		Object clientObject;
+		
+		// Podem haver dois tipos de mensagem: EYE e PROT
+		
+		ArrayList l = new ArrayList();
+		ArrayList dados = new ArrayList();
+		
+		 StringTokenizer st = new StringTokenizer(text,",");
+	     while (st.hasMoreTokens()) {
+	         l.add(st.nextToken());
+	     }
+	 
+		dados.add(l);
+		dados.add( (String) l.get(0) );
+		
+		clientObject = (Object) dados;
+		return clientObject;
+	}
+
+	// Trata as mensagens do protocolo
+	private boolean trataProtocolo (Object clientObject) 
+	{
+
+        ArrayList list = (ArrayList) clientObject;
+
+        Object objDados = list.get(0);
+        String nomeEvento = (String)list.get(1);
+        
+        
+        // Aqui são verificadas as mensagens iniciais, para identificar qual é a conexão
+        if ( nomeEvento.equals("EYE")  )
+        {
+        	ArrayList l = (ArrayList) objDados;
+        	
+        	// Aqui será verificado o login e a senha.
+        	
+        	if ( this.servidor.checkUser(l.get(0).toString(),l.get(1).toString())  )
+        	{
+        		this.tipocon = nomeEvento;
+        		this.login = l.get(0).toString();
+        		this.senha = l.get(1).toString();
+        		 // System.out.println("Conexão autorizada!");
+        		
+        		// Adicionando ao array de clientes
+        		this.servidor.clientVector.addElement(this);
+        		
+        	}
+
+        	return true;
+        }
+
+        
+		// Aqui são verificadas as mensagens de 'protocolo'
+    	if (  nomeEvento.startsWith("PROT") )
+    	{
+
+//    		 O cliente quer participar de uma sessão existente
+    		if (nomeEvento.equals("PROT_EYE"))
+    		{
+    			// Montando o objeto que será replicado
+    			ArrayList l = new ArrayList();
+	        	l.add(login + ":" + ((String) objDados)); 
+	        	l.add("PROT_chat_msg");
+    			
+	        	//	Aqui vou colocar uma cor para a mensagem do cliente
+	        	l.add(this.servidor.getColor( this.id_pointer ));
+	        	
+    			this.servidor.BroadCastToAll(l, this, false,"EYE");
+    		}
+    		
+    		
+    		return true;
+    	}
+
+		return false;
+	}
+
+	
+        
+	// when connection starts - opens streams and calls server to notify
+    // all other currently connected clients about the joining of this user.
+  
+
+  private void connect () throws java.io.IOException	{
+
+    	// is = new ObjectInputStream(client.getInputStream());
+        // os = new ObjectOutputStream(client.getOutputStream());
+
+        is1 = new InputStreamReader(client.getInputStream());
+        os1 = new OutputStreamWriter(client.getOutputStream());
+
+        
+        os1.flush();
+    }   
+    
+    //  when connection ends - closes streams, stops this thread and notifies
+    // server about the disconnection of this client.
+    private void disconnect () {
+        try {
+            is1.close();
+            os1.close();
+            
+            client.close();
+            
+            // Liberando todos os locks que este cara tenha
+            this.resources_locked.clear(); 
+			
+
+            // Aqui vou remover o Id do Telepointer
+            servidor.RemovePointer(this.id_pointer);
+            servidor.RemoveClient(this);
+            
+            this.interrupt();
+        } catch (IOException e) {
+            // e.printStackTrace();
+        } 
+    }           // disconnect
+    
+    public synchronized void BroadCastToClient (Object obj) {
+        try {
+            os.reset();
+            os.writeObject(obj);
+            os.flush();
+            os.reset();
+        } catch (IOException e) {
+            disconnect();
+            e.printStackTrace();
+        }
+    }           // BroadCastToClient
+
+}

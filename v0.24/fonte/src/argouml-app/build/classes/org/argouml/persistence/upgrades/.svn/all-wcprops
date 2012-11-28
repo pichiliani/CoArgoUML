@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14663/trunk/src/argouml-app/src/org/argouml/persistence/upgrades
+END
+upgrade3.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/upgrades/upgrade3.xsl
+END
+upgrade4.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/upgrades/upgrade4.xsl
+END
+upgrade5.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/upgrades/upgrade5.xsl
+END
+upgrade6.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14663/trunk/src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl
+END
+upgrade2.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/src/org/argouml/persistence/upgrades/upgrade2.xsl
+END

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/argouml/!svn/ver/14955/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr
+END
+XmiReaderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14788/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/XmiReaderImpl.java
+END
+XmiHeaderProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/XmiHeaderProviderImpl.java
+END
+StateMachinesFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14686/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/StateMachinesFactoryMDRImpl.java
+END
+CoreFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/argouml/!svn/ver/14955/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CoreFactoryMDRImpl.java
+END
+ExtensionMechanismsHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14720/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ExtensionMechanismsHelperMDRImpl.java
+END
+MDRModelImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14674/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/MDRModelImplementation.java
+END
+XmiReferenceProviderImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14771/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/XmiReferenceProviderImpl.java
+END
+ModelManagementFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/argouml/!svn/ver/14624/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ModelManagementFactoryMDRImpl.java
+END
+UmlFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14689/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UmlFactoryMDRImpl.java
+END
+XmiReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/XmiReference.java
+END
+UndoExtensionMechanismsHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoExtensionMechanismsHelperDecorator.java
+END
+ActivityGraphsFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ActivityGraphsFactoryMDRImpl.java
+END
+XmiReferenceResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/argouml/!svn/ver/14786/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/XmiReferenceResolverImpl.java
+END
+UmlHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UmlHelperMDRImpl.java
+END
+ModelManagementHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14734/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ModelManagementHelperMDRImpl.java
+END
+DataTypesHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/DataTypesHelperMDRImpl.java
+END
+ActivityGraphsHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ActivityGraphsHelperMDRImpl.java
+END
+UndoUmlHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoUmlHelperDecorator.java
+END
+UndoDataTypesHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoDataTypesHelperDecorator.java
+END
+CollaborationsFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CollaborationsFactoryMDRImpl.java
+END
+UseCasesFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UseCasesFactoryMDRImpl.java
+END
+FacadeMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14734/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/FacadeMDRImpl.java
+END
+ModelEventPumpMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14818/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ModelEventPumpMDRImpl.java
+END
+UndoActivityGraphsHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoActivityGraphsHelperDecorator.java
+END
+KindsMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/KindsMDRImpl.java
+END
+CommonBehaviorHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CommonBehaviorHelperMDRImpl.java
+END
+MetaTypesMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14413/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/MetaTypesMDRImpl.java
+END
+UseCasesHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UseCasesHelperMDRImpl.java
+END
+CollaborationsHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CollaborationsHelperMDRImpl.java
+END
+ExtensionMechanismsFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14470/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/ExtensionMechanismsFactoryMDRImpl.java
+END
+UndoCommonBehaviorHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoCommonBehaviorHelperDecorator.java
+END
+UndoUseCasesHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoUseCasesHelperDecorator.java
+END
+UndoCollaborationsHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoCollaborationsHelperDecorator.java
+END
+CopyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CopyHelper.java
+END
+DataTypesFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/DataTypesFactoryMDRImpl.java
+END
+CoreHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/argouml/!svn/ver/14776/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CoreHelperMDRImpl.java
+END
+StateMachinesHelperMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/StateMachinesHelperMDRImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/package.html
+END
+XmiWriterMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14772/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/XmiWriterMDRImpl.java
+END
+UndoStateMachinesHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoStateMachinesHelperDecorator.java
+END
+UndoCoreHelperDecorator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/UndoCoreHelperDecorator.java
+END
+CommonBehaviorFactoryMDRImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/argouml/!svn/ver/14470/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CommonBehaviorFactoryMDRImpl.java
+END
+CollectionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/CollectionHelper.java
+END
+AbstractUmlModelFactoryMDR.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-core-model-mdr/src/org/argouml/model/mdr/AbstractUmlModelFactoryMDR.java
+END

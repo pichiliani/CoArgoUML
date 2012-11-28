@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/ui
+END
+GUITestProjectBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/argouml/!svn/ver/14623/trunk/src/argouml-app/tests/org/argouml/ui/GUITestProjectBrowser.java
+END
+TestStylePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/ui/TestStylePanel.java
+END
+TestMultiEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/ui/TestMultiEditorPane.java
+END
+TestPropertyPanels.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/tests/org/argouml/ui/TestPropertyPanels.java
+END
+TestDetailsPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/argouml/!svn/ver/14564/trunk/src/argouml-app/tests/org/argouml/ui/TestDetailsPane.java
+END
+GUITestMultiEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/ui/GUITestMultiEditorPane.java
+END
+TestTabText.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/ui/TestTabText.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/ui/package.html
+END

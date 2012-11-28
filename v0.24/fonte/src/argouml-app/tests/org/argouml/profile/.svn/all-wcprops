@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/argouml/!svn/ver/14716/trunk/src/argouml-app/tests/org/argouml/profile
+END
+TestProfileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestProfileReference.java
+END
+TestProfileMother.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestProfileMother.java
+END
+ProfileMother.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/ProfileMother.java
+END
+TestSubsystemInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestSubsystemInit.java
+END
+TestProfileFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestProfileFacade.java
+END
+TestCoreProfileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14609/trunk/src/argouml-app/tests/org/argouml/profile/TestCoreProfileReference.java
+END
+TestReaderModelLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestReaderModelLoader.java
+END
+TestProfileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/argouml/!svn/ver/14716/trunk/src/argouml-app/tests/org/argouml/profile/TestProfileManager.java
+END
+TestUserProfileReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestUserProfileReference.java
+END
+TestUserDefinedProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/TestUserDefinedProfile.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/argouml/!svn/ver/14404/trunk/src/argouml-app/tests/org/argouml/profile/package.html
+END
